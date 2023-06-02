@@ -1,0 +1,26 @@
+[2023-06-01T15:54:15.804+0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [queued]>
+[2023-06-01T15:54:15.814+0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [queued]>
+[2023-06-01T15:54:15.815+0300] {taskinstance.py:1308} INFO - Starting attempt 1 of 6
+[2023-06-01T15:54:15.840+0300] {taskinstance.py:1327} INFO - Executing <Task(PythonOperator): download_images> on 2023-05-29 00:00:00+00:00
+[2023-06-01T15:54:15.846+0300] {standard_task_runner.py:57} INFO - Started process 21027 to run task
+[2023-06-01T15:54:15.852+0300] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'space_missions', 'download_images', 'scheduled__2023-05-29T00:00:00+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/space_missions.py', '--cfg-path', '/tmp/tmpj9doueag']
+[2023-06-01T15:54:15.854+0300] {standard_task_runner.py:85} INFO - Job 3: Subtask download_images
+[2023-06-01T15:54:15.965+0300] {task_command.py:410} INFO - Running <TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [running]> on host mutwiri
+[2023-06-01T15:54:16.094+0300] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='franklinmutwiri41@gmail.com' AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='space_missions' AIRFLOW_CTX_TASK_ID='download_images' AIRFLOW_CTX_EXECUTION_DATE='2023-05-29T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-05-29T00:00:00+00:00'
+[2023-06-01T15:54:18.267+0300] {python.py:183} INFO - Done. Returned value was: None
+[2023-06-01T15:54:18.319+0300] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=space_missions, task_id=download_images, execution_date=20230529T000000, start_date=20230601T125415, end_date=20230601T125418
+[2023-06-01T15:54:18.392+0300] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-06-01T15:54:18.448+0300] {taskinstance.py:2651} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2023-06-02T08:42:30.664+0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [queued]>
+[2023-06-02T08:42:30.688+0300] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [queued]>
+[2023-06-02T08:42:30.689+0300] {taskinstance.py:1308} INFO - Starting attempt 1 of 6
+[2023-06-02T08:42:30.729+0300] {taskinstance.py:1327} INFO - Executing <Task(PythonOperator): download_images> on 2023-05-29 00:00:00+00:00
+[2023-06-02T08:42:30.734+0300] {standard_task_runner.py:57} INFO - Started process 14755 to run task
+[2023-06-02T08:42:30.741+0300] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'space_missions', 'download_images', 'scheduled__2023-05-29T00:00:00+00:00', '--job-id', '26', '--raw', '--subdir', 'DAGS_FOLDER/space_missions.py', '--cfg-path', '/tmp/tmpodot8d8c']
+[2023-06-02T08:42:30.743+0300] {standard_task_runner.py:85} INFO - Job 26: Subtask download_images
+[2023-06-02T08:42:30.899+0300] {task_command.py:410} INFO - Running <TaskInstance: space_missions.download_images scheduled__2023-05-29T00:00:00+00:00 [running]> on host mutwiri
+[2023-06-02T08:42:31.183+0300] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='franklinmutwiri41@gmail.com' AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='space_missions' AIRFLOW_CTX_TASK_ID='download_images' AIRFLOW_CTX_EXECUTION_DATE='2023-05-29T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-05-29T00:00:00+00:00'
+[2023-06-02T08:42:33.410+0300] {python.py:183} INFO - Done. Returned value was: None
+[2023-06-02T08:42:33.454+0300] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=space_missions, task_id=download_images, execution_date=20230529T000000, start_date=20230602T054230, end_date=20230602T054233
+[2023-06-02T08:42:33.482+0300] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-06-02T08:42:33.552+0300] {taskinstance.py:2651} INFO - 1 downstream tasks scheduled from follow-on schedule check
