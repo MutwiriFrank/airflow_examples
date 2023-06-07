@@ -18,13 +18,13 @@ def _get_data(logical_date):
     month = logical_date.month
     day = logical_date.day
     hour = logical_date.hour
-    url = (
+    url = ( 
         "https://dumps.wikimedia.org/other/pageviews/"
         f"{year}/{year}-{month:0>2}/"
         f"pageviews-{year}{month:0>2}{day:0>2}-{hour:0>2}0000.gz"
     )
     output_path = "./wikipageviews.gz"
-    # request.urlretrieve(url, output_path)
+    request.urlretrieve(url, output_path)
 get_data = PythonOperator(
     task_id="get_data",
     python_callable=_get_data,

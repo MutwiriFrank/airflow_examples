@@ -723,3 +723,1109 @@
 [2023-06-07T18:49:17.962+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:17.961+0300] {dag.py:2726} INFO - Sync 1 DAGs
 [2023-06-07T18:49:17.999+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:17.999+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
 [2023-06-07T18:49:18.108+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.256 seconds
+[2023-06-07T18:49:48.734+0300] {processor.py:157} INFO - Started process (PID=56190) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:49:48.753+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:49:48.757+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:48.757+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:49:48.841+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:49:48.921+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:48.921+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:49:48.967+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:48.967+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:49:49.012+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.295 seconds
+[2023-06-07T18:50:19.238+0300] {processor.py:157} INFO - Started process (PID=57720) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:19.252+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:50:19.254+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:19.254+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:19.281+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:19.360+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:19.360+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:50:19.427+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:19.425+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:50:19.489+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.257 seconds
+[2023-06-07T18:50:49.602+0300] {processor.py:157} INFO - Started process (PID=58838) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:49.624+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:50:49.625+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:49.625+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:49.637+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:50:49.674+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:49.674+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:50:49.697+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:49.697+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:50:49.724+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.127 seconds
+[2023-06-07T18:51:20.205+0300] {processor.py:157} INFO - Started process (PID=58874) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:20.223+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:51:20.226+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:20.225+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:20.243+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:20.284+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:20.284+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:51:20.312+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:20.312+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:51:20.345+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.147 seconds
+[2023-06-07T18:51:50.811+0300] {processor.py:157} INFO - Started process (PID=58907) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:50.831+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:51:50.832+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:50.832+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:50.851+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:51:50.888+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:50.888+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:51:50.913+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:50.913+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:51:50.944+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.142 seconds
+[2023-06-07T18:52:21.396+0300] {processor.py:157} INFO - Started process (PID=59074) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:21.417+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:52:21.418+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:21.418+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:21.431+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:21.487+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:21.487+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:21.515+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:21.515+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:21.554+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.163 seconds
+[2023-06-07T18:52:51.983+0300] {processor.py:157} INFO - Started process (PID=59111) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:51.985+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:52:51.986+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:51.986+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:52.002+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:52:52.044+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:52.044+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:52.074+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:52.074+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:52.118+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.141 seconds
+[2023-06-07T18:53:22.859+0300] {processor.py:157} INFO - Started process (PID=59541) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:22.890+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:53:22.893+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:22.892+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:22.924+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:23.001+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:23.001+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:53:23.026+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:23.026+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:53:23.083+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.238 seconds
+[2023-06-07T18:53:53.623+0300] {processor.py:157} INFO - Started process (PID=59703) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:53.624+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:53:53.624+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:53.624+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:53.635+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:53:53.672+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:53.672+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:53:53.695+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:53.694+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:53:53.736+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.117 seconds
+[2023-06-07T18:54:24.226+0300] {processor.py:157} INFO - Started process (PID=60029) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:24.241+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:54:24.244+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:24.244+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:24.294+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:24.349+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:24.349+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:54:24.396+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:24.396+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:54:24.448+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.227 seconds
+[2023-06-07T18:54:54.932+0300] {processor.py:157} INFO - Started process (PID=60247) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:54.934+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:54:54.935+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:54.935+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:54.948+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:54:54.993+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:54.993+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:54:55.020+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:55.020+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:54:55.055+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.128 seconds
+[2023-06-07T18:55:25.511+0300] {processor.py:157} INFO - Started process (PID=60287) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:25.524+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:55:25.525+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:25.525+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:25.539+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:25.579+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:25.579+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:55:25.606+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:25.606+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:55:25.640+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T18:55:56.113+0300] {processor.py:157} INFO - Started process (PID=60325) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:56.114+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:55:56.115+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:56.114+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:56.126+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:55:56.168+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:56.168+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:55:56.193+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:56.193+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:55:56.227+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T18:56:26.666+0300] {processor.py:157} INFO - Started process (PID=60364) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:26.687+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:56:26.688+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:26.688+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:26.705+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:26.747+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:26.747+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:56:26.772+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:26.772+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:56:26.806+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.145 seconds
+[2023-06-07T18:56:57.197+0300] {processor.py:157} INFO - Started process (PID=60434) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:57.198+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:56:57.200+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:57.200+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:57.215+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:56:57.253+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:57.253+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:56:57.279+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:57.279+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:56:57.312+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.127 seconds
+[2023-06-07T18:57:27.717+0300] {processor.py:157} INFO - Started process (PID=60600) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:27.727+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:57:27.728+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:27.728+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:27.742+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:27.781+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:27.781+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:57:27.807+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:27.807+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:57:27.844+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.131 seconds
+[2023-06-07T18:57:58.315+0300] {processor.py:157} INFO - Started process (PID=60638) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:58.316+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:57:58.317+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:58.317+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:58.332+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:57:58.369+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:58.369+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:57:58.393+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:58.392+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:57:58.432+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.127 seconds
+[2023-06-07T18:58:28.903+0300] {processor.py:157} INFO - Started process (PID=60676) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:28.923+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:58:28.925+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:28.924+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:28.945+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:28.983+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:28.983+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:58:29.008+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:29.008+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:58:29.041+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.149 seconds
+[2023-06-07T18:58:59.469+0300] {processor.py:157} INFO - Started process (PID=60714) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:59.470+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:58:59.472+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:59.471+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:59.489+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:58:59.530+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:59.530+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:58:59.557+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:59.557+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:58:59.797+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.335 seconds
+[2023-06-07T18:59:29.940+0300] {processor.py:157} INFO - Started process (PID=60753) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:59:29.952+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T18:59:29.953+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:29.953+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:59:29.965+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T18:59:30.002+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:30.002+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:59:30.026+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:30.026+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:59:30.058+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.123 seconds
+[2023-06-07T19:00:00.507+0300] {processor.py:157} INFO - Started process (PID=60791) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:00.528+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:00:00.530+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:00.530+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:00.546+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:00.583+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:00.582+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:00:00.607+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:00.607+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:00:00.646+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.143 seconds
+[2023-06-07T19:00:30.956+0300] {processor.py:157} INFO - Started process (PID=61102) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:30.957+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:00:30.958+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:30.958+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:30.970+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:00:31.013+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:31.013+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:00:31.039+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:31.039+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:00:31.079+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.128 seconds
+[2023-06-07T19:01:01.559+0300] {processor.py:157} INFO - Started process (PID=61143) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:01.580+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:01:01.581+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:01.581+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:01.597+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:01.640+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:01.640+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:01:01.663+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:01.663+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:01:01.692+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.143 seconds
+[2023-06-07T19:01:31.985+0300] {processor.py:157} INFO - Started process (PID=61182) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:31.986+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:01:31.987+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:31.987+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:32.002+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:01:32.041+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:32.040+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:01:32.064+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:32.064+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:01:32.098+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:02:02.562+0300] {processor.py:157} INFO - Started process (PID=61220) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:02.576+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:02:02.577+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:02.577+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:02.588+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:02.626+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:02.626+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:02:02.649+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:02.649+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:02:02.686+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.128 seconds
+[2023-06-07T19:02:33.036+0300] {processor.py:157} INFO - Started process (PID=61447) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:33.039+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:02:33.041+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:33.041+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:33.059+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:02:33.099+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:33.099+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:02:33.124+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:33.124+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:02:33.160+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T19:03:03.594+0300] {processor.py:157} INFO - Started process (PID=61506) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:03.617+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:03:03.617+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:03.617+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:03.630+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:03.675+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:03.675+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:03:03.703+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:03.702+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:03:03.726+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T19:03:34.178+0300] {processor.py:157} INFO - Started process (PID=61544) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:34.180+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:03:34.182+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:34.182+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:34.198+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:03:34.237+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:34.236+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:03:34.260+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:34.260+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:03:34.291+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.125 seconds
+[2023-06-07T19:04:04.755+0300] {processor.py:157} INFO - Started process (PID=61584) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:04.770+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:04:04.771+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:04.771+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:04.785+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:04.828+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:04.828+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:04:04.855+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:04.855+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:04:04.890+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.141 seconds
+[2023-06-07T19:04:35.323+0300] {processor.py:157} INFO - Started process (PID=61621) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:35.324+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:04:35.325+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:35.325+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:35.343+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:04:35.382+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:35.381+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:04:35.410+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:35.410+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:04:35.454+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T19:05:05.888+0300] {processor.py:157} INFO - Started process (PID=61662) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:05.910+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:05:05.911+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:05.911+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:05.927+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:05.966+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:05.966+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:05:05.991+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:05.991+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:05:06.029+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.148 seconds
+[2023-06-07T19:05:36.477+0300] {processor.py:157} INFO - Started process (PID=61699) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:36.479+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:05:36.480+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:36.480+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:36.493+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:05:36.530+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:36.530+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:05:36.554+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:36.554+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:05:36.595+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.126 seconds
+[2023-06-07T19:06:07.042+0300] {processor.py:157} INFO - Started process (PID=61737) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:07.059+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:06:07.060+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:07.060+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:07.073+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:07.111+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:07.111+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:06:07.135+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:07.135+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:06:07.170+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.135 seconds
+[2023-06-07T19:06:37.579+0300] {processor.py:157} INFO - Started process (PID=61774) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:37.580+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:06:37.581+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:37.580+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:37.592+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:06:37.630+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:37.630+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:06:37.654+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:37.653+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:06:37.679+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.104 seconds
+[2023-06-07T19:07:08.137+0300] {processor.py:157} INFO - Started process (PID=61816) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:08.155+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:07:08.156+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:08.156+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:08.174+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:08.213+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:08.213+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:07:08.237+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:08.237+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:07:08.266+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.134 seconds
+[2023-06-07T19:07:38.787+0300] {processor.py:157} INFO - Started process (PID=61983) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:38.788+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:07:38.789+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:38.789+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:38.805+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:07:38.843+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:38.843+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:07:38.867+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:38.867+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:07:38.898+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.120 seconds
+[2023-06-07T19:08:09.383+0300] {processor.py:157} INFO - Started process (PID=62032) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:09.384+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:08:09.385+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:09.385+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:09.397+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:09.437+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:09.436+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:08:09.463+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:09.463+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:08:09.496+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.117 seconds
+[2023-06-07T19:08:39.993+0300] {processor.py:157} INFO - Started process (PID=62078) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:39.996+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:08:39.998+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:39.998+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:40.030+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:08:40.084+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:40.084+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:08:40.116+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:40.116+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:08:40.152+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.178 seconds
+[2023-06-07T19:09:10.593+0300] {processor.py:157} INFO - Started process (PID=62125) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:10.595+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:09:10.596+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:10.596+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:10.608+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:10.653+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:10.653+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:09:10.682+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:10.682+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:09:10.715+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.128 seconds
+[2023-06-07T19:09:41.272+0300] {processor.py:157} INFO - Started process (PID=62231) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:41.273+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:09:41.274+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:41.273+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:41.287+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:09:41.328+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:41.328+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:09:41.356+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:41.356+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:09:41.390+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.122 seconds
+[2023-06-07T19:10:11.862+0300] {processor.py:157} INFO - Started process (PID=62275) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:11.866+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:10:11.868+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:11.868+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:11.909+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:11.961+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:11.961+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:10:11.990+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:11.989+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:10:12.025+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.178 seconds
+[2023-06-07T19:10:42.615+0300] {processor.py:157} INFO - Started process (PID=62305) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:42.627+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:10:42.629+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:42.628+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:42.644+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:10:42.695+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:42.695+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:10:42.731+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:42.731+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:10:42.765+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.157 seconds
+[2023-06-07T19:11:13.381+0300] {processor.py:157} INFO - Started process (PID=62335) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:13.386+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:11:13.389+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:13.388+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:13.419+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:13.473+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:13.472+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:11:13.507+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:13.507+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:11:13.556+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.191 seconds
+[2023-06-07T19:11:44.138+0300] {processor.py:157} INFO - Started process (PID=62360) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:44.142+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:11:44.146+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:44.145+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:44.174+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:11:44.225+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:44.225+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:11:44.259+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:44.259+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:11:44.295+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.173 seconds
+[2023-06-07T19:12:14.896+0300] {processor.py:157} INFO - Started process (PID=62386) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:14.900+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:12:14.903+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:14.902+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:14.939+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:14.995+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:14.994+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:12:15.028+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:15.028+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:12:15.059+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.178 seconds
+[2023-06-07T19:12:45.530+0300] {processor.py:157} INFO - Started process (PID=62542) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:45.531+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:12:45.532+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:45.532+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:45.544+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:12:45.582+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:45.582+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:12:45.606+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:45.605+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:12:45.632+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.107 seconds
+[2023-06-07T19:13:16.103+0300] {processor.py:157} INFO - Started process (PID=62566) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:16.117+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:13:16.118+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:16.118+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:16.132+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:16.175+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:16.175+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:13:16.198+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:16.198+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:13:16.232+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.133 seconds
+[2023-06-07T19:13:46.654+0300] {processor.py:157} INFO - Started process (PID=62592) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:46.655+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:13:46.656+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:46.656+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:46.671+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:13:46.719+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:46.719+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:13:46.748+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:46.748+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:13:46.787+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.137 seconds
+[2023-06-07T19:14:17.231+0300] {processor.py:157} INFO - Started process (PID=62621) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:17.250+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:14:17.251+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:17.251+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:17.265+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:17.301+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:17.301+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:14:17.325+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:17.325+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:14:17.363+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.139 seconds
+[2023-06-07T19:14:47.823+0300] {processor.py:157} INFO - Started process (PID=62645) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:47.824+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:14:47.824+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:47.824+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:47.836+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:14:47.877+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:47.877+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:14:47.901+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:47.901+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:14:47.927+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.108 seconds
+[2023-06-07T19:15:18.341+0300] {processor.py:157} INFO - Started process (PID=62675) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:18.359+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:15:18.360+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:18.360+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:18.385+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:18.426+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:18.426+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:15:18.450+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:18.450+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:15:18.483+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.147 seconds
+[2023-06-07T19:15:48.919+0300] {processor.py:157} INFO - Started process (PID=62701) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:48.920+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:15:48.921+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:48.921+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:48.936+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:15:48.975+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:48.975+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:15:48.998+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:48.998+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:15:49.039+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.124 seconds
+[2023-06-07T19:16:19.488+0300] {processor.py:157} INFO - Started process (PID=62728) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:19.500+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:16:19.501+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:19.501+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:19.514+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:19.557+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:19.557+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:16:19.583+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:19.583+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:16:19.613+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.128 seconds
+[2023-06-07T19:16:50.113+0300] {processor.py:157} INFO - Started process (PID=62753) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:50.115+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:16:50.115+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:50.115+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:50.127+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:16:50.165+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:50.165+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:16:50.189+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:50.189+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:16:50.222+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.114 seconds
+[2023-06-07T19:17:20.730+0300] {processor.py:157} INFO - Started process (PID=62910) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:20.751+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:17:20.752+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:20.752+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:20.770+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:20.818+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:20.817+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:17:20.841+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:20.841+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:17:20.876+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.150 seconds
+[2023-06-07T19:17:51.364+0300] {processor.py:157} INFO - Started process (PID=62935) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:51.365+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:17:51.366+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:51.365+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:51.378+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:17:51.416+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:51.416+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:17:51.441+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:51.441+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:17:51.485+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.126 seconds
+[2023-06-07T19:18:21.977+0300] {processor.py:157} INFO - Started process (PID=62963) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:22.003+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:18:22.004+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:22.004+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:22.015+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:22.053+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:22.052+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:18:22.076+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:22.076+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:18:22.107+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.137 seconds
+[2023-06-07T19:18:52.563+0300] {processor.py:157} INFO - Started process (PID=63153) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:52.564+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:18:52.565+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:52.565+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:52.578+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:18:52.615+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:52.615+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:18:52.638+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:52.638+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:18:52.684+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.125 seconds
+[2023-06-07T19:19:23.112+0300] {processor.py:157} INFO - Started process (PID=63185) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:23.113+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:19:23.114+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:23.114+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:23.125+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:23.162+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:23.162+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:19:23.186+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:23.186+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:19:23.215+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.107 seconds
+[2023-06-07T19:19:53.790+0300] {processor.py:157} INFO - Started process (PID=63212) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:53.791+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:19:53.792+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:53.792+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:53.804+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:19:53.842+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:53.842+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:19:53.866+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:53.866+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:19:53.902+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.115 seconds
+[2023-06-07T19:20:24.387+0300] {processor.py:157} INFO - Started process (PID=63238) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:24.389+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:20:24.390+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:24.389+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:24.401+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:24.439+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:24.439+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:20:24.463+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:24.463+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:20:24.499+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.118 seconds
+[2023-06-07T19:20:54.962+0300] {processor.py:157} INFO - Started process (PID=63271) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:54.963+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:20:54.964+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:54.963+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:54.975+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:20:55.013+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:55.013+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:20:55.036+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:55.036+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:20:55.077+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:21:25.518+0300] {processor.py:157} INFO - Started process (PID=63296) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:25.520+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:21:25.521+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:25.521+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:25.539+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:25.577+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:25.577+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:21:25.601+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:25.601+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:21:25.632+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:21:56.053+0300] {processor.py:157} INFO - Started process (PID=63342) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:56.054+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:21:56.055+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:56.055+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:56.069+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:21:56.106+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:56.106+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:21:56.131+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:56.130+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:21:56.163+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.114 seconds
+[2023-06-07T19:22:26.811+0300] {processor.py:157} INFO - Started process (PID=63497) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:26.824+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:22:26.826+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:26.825+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:26.857+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:26.896+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:26.895+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:22:26.919+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:26.919+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:22:26.948+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.141 seconds
+[2023-06-07T19:22:57.328+0300] {processor.py:157} INFO - Started process (PID=63738) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:57.331+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:22:57.333+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:57.333+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:57.354+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:22:57.393+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:57.393+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:22:57.417+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:57.417+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:22:57.449+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.134 seconds
+[2023-06-07T19:23:27.905+0300] {processor.py:157} INFO - Started process (PID=63823) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:27.926+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:23:27.929+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:27.929+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:27.976+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:28.046+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:28.046+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:23:28.082+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:28.082+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:23:28.128+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.235 seconds
+[2023-06-07T19:23:58.624+0300] {processor.py:157} INFO - Started process (PID=63864) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:58.625+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:23:58.626+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:58.626+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:58.639+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:23:58.682+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:58.682+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:23:58.711+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:58.711+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:23:58.746+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.126 seconds
+[2023-06-07T19:24:29.104+0300] {processor.py:157} INFO - Started process (PID=63899) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:29.133+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:24:29.134+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:29.134+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:29.147+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:29.190+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:29.190+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:24:29.214+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:29.214+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:24:29.267+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.167 seconds
+[2023-06-07T19:24:59.684+0300] {processor.py:157} INFO - Started process (PID=63925) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:59.685+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:24:59.686+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:59.686+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:59.704+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:24:59.765+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:59.765+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:24:59.808+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:59.808+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:24:59.857+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.177 seconds
+[2023-06-07T19:25:30.364+0300] {processor.py:157} INFO - Started process (PID=63955) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:25:30.385+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:25:30.386+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:30.385+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:25:30.398+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:25:30.439+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:30.439+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:25:30.476+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:30.476+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:25:30.505+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.148 seconds
+[2023-06-07T19:26:00.970+0300] {processor.py:157} INFO - Started process (PID=63980) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:00.973+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:26:00.975+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:00.974+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:00.999+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:01.044+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:01.044+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:26:01.068+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:01.068+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:26:01.103+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.146 seconds
+[2023-06-07T19:26:31.477+0300] {processor.py:157} INFO - Started process (PID=64005) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:31.492+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:26:31.493+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:31.493+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:31.505+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:26:31.544+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:31.543+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:26:31.573+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:31.573+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:26:31.614+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.140 seconds
+[2023-06-07T19:27:02.003+0300] {processor.py:157} INFO - Started process (PID=64046) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:02.004+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:27:02.004+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:02.004+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:02.017+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:02.054+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:02.054+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:27:02.078+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:02.078+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:27:02.114+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.115 seconds
+[2023-06-07T19:27:32.549+0300] {processor.py:157} INFO - Started process (PID=64197) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:32.570+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:27:32.572+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:32.571+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:32.591+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:27:32.630+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:32.630+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:27:32.654+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:32.654+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:27:32.699+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.161 seconds
+[2023-06-07T19:28:03.155+0300] {processor.py:157} INFO - Started process (PID=64223) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:03.157+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:28:03.158+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:03.158+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:03.171+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:03.208+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:03.208+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:28:03.231+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:03.231+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:28:03.265+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.117 seconds
+[2023-06-07T19:28:33.686+0300] {processor.py:157} INFO - Started process (PID=64250) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:33.700+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:28:33.701+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:33.700+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:33.712+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:28:33.748+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:33.748+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:28:33.771+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:33.771+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:28:33.807+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.126 seconds
+[2023-06-07T19:29:04.316+0300] {processor.py:157} INFO - Started process (PID=64282) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:04.318+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:29:04.320+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:04.320+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:04.337+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:04.375+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:04.375+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:29:04.398+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:04.398+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:29:04.428+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.123 seconds
+[2023-06-07T19:29:34.861+0300] {processor.py:157} INFO - Started process (PID=64309) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:34.878+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:29:34.879+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:34.879+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:34.894+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:29:34.931+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:34.931+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:29:34.954+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:34.954+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:29:34.992+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.142 seconds
+[2023-06-07T19:30:05.480+0300] {processor.py:157} INFO - Started process (PID=64337) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:05.481+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:30:05.482+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:05.482+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:05.498+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:05.534+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:05.534+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:30:05.559+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:05.559+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:30:05.591+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.116 seconds
+[2023-06-07T19:30:36.040+0300] {processor.py:157} INFO - Started process (PID=64364) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:36.052+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:30:36.055+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:36.054+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:36.080+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:30:36.117+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:36.117+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:30:36.141+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:36.141+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:30:36.178+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.149 seconds
+[2023-06-07T19:31:06.610+0300] {processor.py:157} INFO - Started process (PID=64391) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:06.611+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:31:06.612+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:06.612+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:06.627+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:06.667+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:06.667+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:31:06.690+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:06.690+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:31:06.720+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.114 seconds
+[2023-06-07T19:31:37.170+0300] {processor.py:157} INFO - Started process (PID=64420) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:37.193+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:31:37.194+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:37.194+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:37.211+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:31:37.252+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:37.252+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:31:37.276+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:37.276+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:31:37.307+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.144 seconds
+[2023-06-07T19:32:07.751+0300] {processor.py:157} INFO - Started process (PID=64449) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:07.752+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:32:07.753+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:07.752+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:07.766+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:07.804+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:07.804+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:32:07.831+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:07.830+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:32:07.871+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.125 seconds
+[2023-06-07T19:32:38.300+0300] {processor.py:157} INFO - Started process (PID=64600) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:38.311+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:32:38.312+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:38.312+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:38.323+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:32:38.360+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:38.360+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:32:38.384+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:38.383+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:32:38.415+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:33:08.881+0300] {processor.py:157} INFO - Started process (PID=64625) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:08.882+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:33:08.883+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:08.882+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:08.894+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:08.932+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:08.931+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:33:08.955+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:08.955+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:33:08.981+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.104 seconds
+[2023-06-07T19:33:39.490+0300] {processor.py:157} INFO - Started process (PID=64652) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:39.509+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:33:39.510+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:39.510+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:39.523+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:33:39.561+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:39.561+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:33:39.585+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:39.585+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:33:39.624+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.141 seconds
+[2023-06-07T19:34:09.936+0300] {processor.py:157} INFO - Started process (PID=64678) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:09.937+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:34:09.938+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:09.938+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:09.949+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:09.987+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:09.987+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:34:10.011+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:10.011+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:34:10.045+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.113 seconds
+[2023-06-07T19:34:40.553+0300] {processor.py:157} INFO - Started process (PID=64705) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:40.554+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:34:40.555+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:40.554+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:40.568+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:34:40.606+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:40.606+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:34:40.630+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:40.630+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:34:40.681+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.133 seconds
+[2023-06-07T19:35:11.095+0300] {processor.py:157} INFO - Started process (PID=64738) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:11.097+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:35:11.098+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:11.097+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:11.113+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:11.162+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:11.161+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:35:11.195+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:11.195+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:35:11.308+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.217 seconds
+[2023-06-07T19:35:41.571+0300] {processor.py:157} INFO - Started process (PID=64764) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:41.573+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:35:41.574+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:41.574+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:41.589+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:35:41.626+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:41.626+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:35:41.653+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:41.653+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:35:41.685+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.124 seconds
+[2023-06-07T19:36:12.162+0300] {processor.py:157} INFO - Started process (PID=64790) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:12.178+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:36:12.180+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:12.179+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:12.199+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:12.239+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:12.239+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:36:12.265+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:12.265+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:36:12.293+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.143 seconds
+[2023-06-07T19:36:42.778+0300] {processor.py:157} INFO - Started process (PID=64816) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:42.779+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:36:42.780+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:42.780+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:42.791+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:36:42.828+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:42.828+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:36:42.851+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:42.850+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:36:42.879+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.108 seconds
+[2023-06-07T19:37:13.376+0300] {processor.py:157} INFO - Started process (PID=65010) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:13.397+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:37:13.397+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:13.397+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:13.409+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:13.446+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:13.445+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:37:13.469+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:13.469+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:37:13.500+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.129 seconds
+[2023-06-07T19:37:43.975+0300] {processor.py:157} INFO - Started process (PID=65163) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:43.976+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:37:43.976+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:43.976+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:43.987+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:37:44.026+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:44.025+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:37:44.049+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:44.049+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:37:44.087+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.116 seconds
+[2023-06-07T19:38:14.427+0300] {processor.py:157} INFO - Started process (PID=65201) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:14.449+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:38:14.451+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:14.451+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:14.478+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:14.517+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:14.517+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:38:14.542+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:14.542+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:38:14.576+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.153 seconds
+[2023-06-07T19:38:45.003+0300] {processor.py:157} INFO - Started process (PID=65226) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:45.005+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:38:45.006+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:45.005+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:45.021+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:38:45.062+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:45.062+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:38:45.086+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:45.086+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:38:45.117+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:39:15.574+0300] {processor.py:157} INFO - Started process (PID=65253) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:15.576+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:39:15.577+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:15.577+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:15.592+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:15.632+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:15.632+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:39:15.659+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:15.659+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:39:15.682+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.118 seconds
+[2023-06-07T19:39:46.178+0300] {processor.py:157} INFO - Started process (PID=65279) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:46.180+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:39:46.181+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:46.181+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:46.194+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:39:46.236+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:46.236+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:39:46.260+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:46.260+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:39:46.293+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.120 seconds
+[2023-06-07T19:40:16.773+0300] {processor.py:157} INFO - Started process (PID=65320) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:16.783+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:40:16.784+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:16.784+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:16.797+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:16.838+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:16.838+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:40:16.864+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:16.864+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:40:16.902+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T19:40:47.377+0300] {processor.py:157} INFO - Started process (PID=65618) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:47.379+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:40:47.380+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:47.380+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:47.396+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:40:47.434+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:47.434+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:40:47.459+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:47.459+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:40:47.490+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.125 seconds
+[2023-06-07T19:41:17.924+0300] {processor.py:157} INFO - Started process (PID=65656) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:17.926+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:41:17.927+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:17.927+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:17.939+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:17.979+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:17.979+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:41:18.005+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:18.005+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:41:18.032+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.112 seconds
+[2023-06-07T19:41:48.449+0300] {processor.py:157} INFO - Started process (PID=65692) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:48.450+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:41:48.451+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:48.451+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:48.466+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:41:48.502+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:48.502+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:41:48.526+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:48.526+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:41:48.563+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.119 seconds
+[2023-06-07T19:42:19.079+0300] {processor.py:157} INFO - Started process (PID=65778) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:19.080+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:42:19.081+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:19.081+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:19.093+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:19.130+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:19.130+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:42:19.153+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:19.153+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:42:19.183+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.110 seconds
+[2023-06-07T19:42:49.586+0300] {processor.py:157} INFO - Started process (PID=65892) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:49.588+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:42:49.588+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:49.588+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:49.600+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:42:49.640+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:49.639+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:42:49.662+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:49.662+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:42:49.694+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.113 seconds
+[2023-06-07T19:43:20.146+0300] {processor.py:157} INFO - Started process (PID=65928) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:20.163+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:43:20.164+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:20.164+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:20.192+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:20.261+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:20.261+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:43:20.300+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:20.299+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:43:20.338+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.197 seconds
+[2023-06-07T19:43:50.913+0300] {processor.py:157} INFO - Started process (PID=65983) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:50.982+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:43:50.983+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:50.983+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:50.997+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:43:51.059+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:51.059+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:43:51.100+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:51.100+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:43:51.347+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.441 seconds
+[2023-06-07T19:44:21.500+0300] {processor.py:157} INFO - Started process (PID=66052) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:21.514+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:44:21.515+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:21.515+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:21.532+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:21.589+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:21.589+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:44:21.625+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:21.625+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:44:21.665+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.171 seconds
+[2023-06-07T19:44:52.094+0300] {processor.py:157} INFO - Started process (PID=66126) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:52.095+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:44:52.096+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:52.096+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:52.108+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:44:52.146+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:52.146+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:44:52.174+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:52.174+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:44:52.208+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.120 seconds
+[2023-06-07T19:45:22.495+0300] {processor.py:157} INFO - Started process (PID=66274) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:22.510+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:45:22.511+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:22.511+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:22.528+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:22.586+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:22.585+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:45:22.621+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:22.621+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:45:22.655+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.167 seconds
+[2023-06-07T19:45:53.086+0300] {processor.py:157} INFO - Started process (PID=66325) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:53.088+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:45:53.089+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:53.089+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:53.103+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:45:53.148+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:53.148+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:45:53.174+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:53.173+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:45:53.206+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.127 seconds
+[2023-06-07T19:46:23.687+0300] {processor.py:157} INFO - Started process (PID=66359) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:23.707+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:46:23.708+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:23.708+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:23.722+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:23.770+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:23.770+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:46:23.801+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:23.801+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:46:23.830+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.148 seconds
+[2023-06-07T19:46:54.237+0300] {processor.py:157} INFO - Started process (PID=66388) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:54.242+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:46:54.245+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:54.244+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:54.275+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:46:54.323+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:54.323+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:46:54.354+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:54.354+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:46:54.384+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.161 seconds
+[2023-06-07T19:47:24.849+0300] {processor.py:157} INFO - Started process (PID=66541) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:24.860+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:47:24.861+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:24.861+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:24.875+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:24.923+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:24.923+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:47:24.953+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:24.953+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:47:24.984+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.139 seconds
+[2023-06-07T19:47:55.465+0300] {processor.py:157} INFO - Started process (PID=66576) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:55.466+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:47:55.467+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:55.467+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:55.481+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:47:55.520+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:55.519+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:47:55.546+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:55.545+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:47:55.651+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.195 seconds
+[2023-06-07T19:48:26.100+0300] {processor.py:157} INFO - Started process (PID=66604) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:26.124+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:48:26.125+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:26.125+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:26.140+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:26.179+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:26.179+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:48:26.204+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:26.204+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:48:26.234+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.138 seconds
+[2023-06-07T19:48:56.723+0300] {processor.py:157} INFO - Started process (PID=66629) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:56.743+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:48:56.744+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:56.744+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:56.767+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:48:56.808+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:56.808+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:48:56.832+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:56.832+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:48:56.865+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.148 seconds
+[2023-06-07T19:49:27.332+0300] {processor.py:157} INFO - Started process (PID=66655) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:27.333+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:49:27.334+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:27.334+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:27.347+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:27.390+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:27.390+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:49:27.418+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:27.418+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:49:27.443+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.116 seconds
+[2023-06-07T19:49:57.891+0300] {processor.py:157} INFO - Started process (PID=66683) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:57.906+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:49:57.907+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:57.907+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:57.922+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:49:57.964+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:57.964+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:49:57.989+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:57.989+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:49:58.019+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.132 seconds
+[2023-06-07T19:50:28.491+0300] {processor.py:157} INFO - Started process (PID=66711) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:28.492+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:50:28.493+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:28.493+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:28.507+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:28.558+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:28.558+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:50:28.584+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:28.584+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:50:28.618+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.132 seconds
+[2023-06-07T19:50:59.041+0300] {processor.py:157} INFO - Started process (PID=66739) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:59.059+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:50:59.060+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:59.060+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:59.072+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:50:59.110+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:59.110+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:50:59.134+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:59.133+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:50:59.160+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.124 seconds
+[2023-06-07T19:51:29.591+0300] {processor.py:157} INFO - Started process (PID=66764) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:51:29.592+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:51:29.593+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:29.593+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:51:29.605+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:51:29.646+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:29.646+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:51:29.672+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:29.672+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:51:29.705+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.118 seconds
+[2023-06-07T19:52:00.178+0300] {processor.py:157} INFO - Started process (PID=66793) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:00.190+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:52:00.192+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:00.191+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:00.212+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:00.249+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:00.249+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:52:00.277+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:00.277+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:52:00.314+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.144 seconds
+[2023-06-07T19:52:30.782+0300] {processor.py:157} INFO - Started process (PID=66946) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:30.783+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:52:30.785+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:30.784+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:30.800+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:52:30.837+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:30.837+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:52:30.863+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:30.863+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:52:30.902+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.132 seconds
+[2023-06-07T19:53:01.299+0300] {processor.py:157} INFO - Started process (PID=66983) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:01.321+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:53:01.324+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:01.323+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:01.355+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:01.399+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:01.398+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:53:01.422+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:01.422+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:53:01.456+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.162 seconds
+[2023-06-07T19:53:31.902+0300] {processor.py:157} INFO - Started process (PID=67173) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:31.904+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:53:31.904+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:31.904+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:31.921+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:53:31.958+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:31.957+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:53:31.981+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:31.981+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:53:32.011+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.113 seconds
+[2023-06-07T19:54:02.496+0300] {processor.py:157} INFO - Started process (PID=67199) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:02.518+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:54:02.519+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:02.519+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:02.542+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:02.581+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:02.581+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:54:02.604+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:02.604+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:54:02.643+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.159 seconds
+[2023-06-07T19:54:33.052+0300] {processor.py:157} INFO - Started process (PID=67229) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:33.053+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:54:33.053+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:33.053+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:33.065+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:54:33.103+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:33.103+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:54:33.127+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:33.127+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:54:33.152+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.104 seconds
+[2023-06-07T19:55:03.585+0300] {processor.py:157} INFO - Started process (PID=67260) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:03.603+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:55:03.605+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:03.605+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:03.622+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:03.661+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:03.661+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:55:03.686+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:03.686+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:55:03.721+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.143 seconds
+[2023-06-07T19:55:34.030+0300] {processor.py:157} INFO - Started process (PID=67285) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:34.031+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:55:34.032+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:34.032+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:34.044+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:55:34.084+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:34.084+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:55:34.109+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:34.109+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:55:34.389+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.363 seconds
+[2023-06-07T19:56:04.638+0300] {processor.py:157} INFO - Started process (PID=67312) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:04.656+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:56:04.657+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:04.657+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:04.670+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:04.722+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:04.722+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:56:04.745+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:04.745+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:56:04.781+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.148 seconds
+[2023-06-07T19:56:35.210+0300] {processor.py:157} INFO - Started process (PID=67339) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:35.211+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:56:35.212+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:35.211+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:35.223+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:56:35.260+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:35.260+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:56:35.284+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:35.284+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:56:35.314+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.107 seconds
+[2023-06-07T19:57:05.790+0300] {processor.py:157} INFO - Started process (PID=67365) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:05.809+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:57:05.810+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:05.809+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:05.821+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:05.859+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:05.859+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:57:05.883+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:05.882+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:57:05.913+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.127 seconds
+[2023-06-07T19:57:36.351+0300] {processor.py:157} INFO - Started process (PID=67536) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:36.352+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:57:36.353+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:36.352+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:36.365+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:57:36.401+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:36.401+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:57:36.424+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:36.424+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:57:36.455+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.111 seconds
+[2023-06-07T19:58:06.908+0300] {processor.py:157} INFO - Started process (PID=67778) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:06.928+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:58:06.929+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:06.929+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:06.946+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:06.991+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:06.990+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:58:07.015+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:07.015+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:58:07.043+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.144 seconds
+[2023-06-07T19:58:37.439+0300] {processor.py:157} INFO - Started process (PID=67808) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:37.440+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:58:37.441+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:37.441+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:37.452+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:58:37.488+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:37.487+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:58:37.512+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:37.512+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:58:37.542+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.109 seconds
+[2023-06-07T19:59:08.006+0300] {processor.py:157} INFO - Started process (PID=67833) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:08.024+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:59:08.025+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:08.025+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:08.041+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:08.085+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:08.085+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:59:08.110+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:08.110+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:59:08.151+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.152 seconds
+[2023-06-07T19:59:38.577+0300] {processor.py:157} INFO - Started process (PID=67863) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:38.578+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T19:59:38.579+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:38.579+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:38.595+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T19:59:38.638+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:38.638+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:59:38.665+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:38.665+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T19:59:38.705+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.133 seconds
+[2023-06-07T20:00:09.110+0300] {processor.py:157} INFO - Started process (PID=68164) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:09.132+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:00:09.133+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:09.133+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:09.146+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:09.183+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:09.183+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:00:09.206+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:09.206+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:00:09.240+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.135 seconds
+[2023-06-07T20:00:39.747+0300] {processor.py:157} INFO - Started process (PID=68235) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:39.749+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:00:39.750+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:39.750+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:39.763+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:00:39.802+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:39.802+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:00:39.829+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:39.829+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:00:40.151+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.410 seconds
+[2023-06-07T20:01:10.245+0300] {processor.py:157} INFO - Started process (PID=68285) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:10.263+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:01:10.264+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:10.264+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:10.330+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:10.408+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:10.408+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:01:10.468+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:10.468+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:01:10.540+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.308 seconds
+[2023-06-07T20:01:41.039+0300] {processor.py:157} INFO - Started process (PID=68317) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:41.040+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:01:41.041+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:41.040+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:41.055+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:01:41.097+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:41.097+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:01:41.128+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:41.128+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:01:41.169+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.134 seconds
+[2023-06-07T20:02:11.611+0300] {processor.py:157} INFO - Started process (PID=68343) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:11.625+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:02:11.626+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:11.625+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:11.640+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:11.688+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:11.688+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:02:11.723+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:11.722+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:02:11.767+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.160 seconds
+[2023-06-07T20:02:42.238+0300] {processor.py:157} INFO - Started process (PID=68537) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:42.239+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:02:42.240+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:42.239+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:42.255+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:02:42.306+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:42.306+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:02:42.336+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:42.335+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:02:42.442+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.209 seconds
+[2023-06-07T20:03:12.943+0300] {processor.py:157} INFO - Started process (PID=68582) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:12.957+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:03:12.958+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:12.957+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:12.975+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:13.023+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:13.023+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:03:13.053+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:13.053+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:03:13.096+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.158 seconds
+[2023-06-07T20:03:43.539+0300] {processor.py:157} INFO - Started process (PID=68618) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:43.542+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:03:43.545+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:43.544+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:43.574+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:03:43.616+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:43.616+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:03:43.642+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:43.641+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:03:43.683+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.158 seconds
+[2023-06-07T20:04:14.221+0300] {processor.py:157} INFO - Started process (PID=68649) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:14.242+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:04:14.243+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:14.242+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:14.254+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:14.295+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:14.294+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:04:14.322+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:14.322+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:04:14.348+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.134 seconds
+[2023-06-07T20:04:44.810+0300] {processor.py:157} INFO - Started process (PID=68686) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:44.811+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:04:44.812+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:44.812+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:44.826+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:04:44.881+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:44.881+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:04:44.916+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:44.916+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:04:45.090+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.289 seconds
+[2023-06-07T20:05:15.630+0300] {processor.py:157} INFO - Started process (PID=68732) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:15.781+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:05:15.782+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:15.781+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:15.793+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:15.832+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:15.832+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:05:15.855+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:15.855+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:05:15.888+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.267 seconds
+[2023-06-07T20:05:46.291+0300] {processor.py:157} INFO - Started process (PID=68767) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:46.292+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:05:46.292+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:46.292+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:46.305+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:05:46.345+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:46.345+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:05:46.371+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:46.371+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:05:46.409+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.123 seconds
+[2023-06-07T20:06:16.898+0300] {processor.py:157} INFO - Started process (PID=68795) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:16.915+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:06:16.916+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:16.916+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:16.928+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:16.968+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:16.968+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:06:16.994+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:16.993+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:06:17.045+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.150 seconds
+[2023-06-07T20:06:47.499+0300] {processor.py:157} INFO - Started process (PID=68820) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:47.500+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:06:47.500+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:47.500+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:47.512+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:06:47.549+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:47.549+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:06:47.574+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:47.574+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:06:47.616+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.121 seconds
+[2023-06-07T20:07:18.038+0300] {processor.py:157} INFO - Started process (PID=68846) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:18.056+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:07:18.057+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:18.057+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:18.070+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:18.118+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:18.118+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:07:18.146+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:18.145+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:07:18.169+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.136 seconds
+[2023-06-07T20:07:48.652+0300] {processor.py:157} INFO - Started process (PID=68997) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:48.653+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:07:48.653+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:48.653+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:48.664+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:07:48.702+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:48.701+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:07:48.725+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:48.725+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:07:48.757+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.109 seconds
+[2023-06-07T20:08:19.184+0300] {processor.py:157} INFO - Started process (PID=69037) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:19.205+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:08:19.207+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:19.207+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:19.233+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:19.271+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:19.271+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:08:19.294+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:19.294+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:08:19.322+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.149 seconds
+[2023-06-07T20:08:49.695+0300] {processor.py:157} INFO - Started process (PID=69064) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:49.696+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:08:49.697+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:49.697+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:49.711+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:08:49.751+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:49.751+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:08:49.775+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:49.775+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:08:49.798+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.107 seconds
+[2023-06-07T20:09:20.229+0300] {processor.py:157} INFO - Started process (PID=69097) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:20.245+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:09:20.246+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:20.246+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:20.259+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:20.302+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:20.302+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:09:20.330+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:20.330+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:09:20.366+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.143 seconds
+[2023-06-07T20:09:50.741+0300] {processor.py:157} INFO - Started process (PID=69173) to work on /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:50.744+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating.py for tasks to queue
+[2023-06-07T20:09:50.748+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:50.747+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:50.781+0300] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/mutwiri/airflow/dags/templating.py
+[2023-06-07T20:09:50.841+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:50.840+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:09:50.864+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:50.864+0300] {dag.py:3486} INFO - Setting next_dagrun for templating to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T20:09:50.896+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating.py took 0.170 seconds

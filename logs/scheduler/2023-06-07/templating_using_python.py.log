@@ -830,3 +830,1130 @@
 [2023-06-07T18:49:28.291+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:28.291+0300] {dag.py:2726} INFO - Sync 1 DAGs
 [2023-06-07T18:49:28.342+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:28.341+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-05T00:00:00+00:00, run_after=2023-06-05T01:00:00+00:00
 [2023-06-07T18:49:28.385+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.148 seconds
+[2023-06-07T18:49:59.058+0300] {processor.py:157} INFO - Started process (PID=56605) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:49:59.079+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:49:59.084+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:59.084+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:49:59.147+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:49:59.251+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:59.251+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:49:59.383+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:59.383+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-05T15:00:00+00:00, run_after=2023-06-05T16:00:00+00:00
+[2023-06-07T18:49:59.481+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.439 seconds
+[2023-06-07T18:50:29.652+0300] {processor.py:157} INFO - Started process (PID=58279) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:50:29.658+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:50:29.668+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:29.668+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:50:29.725+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:50:29.897+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:29.896+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:50:29.984+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:50:29.984+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T07:00:00+00:00, run_after=2023-06-07T08:00:00+00:00
+[2023-06-07T18:50:30.073+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.434 seconds
+[2023-06-07T18:51:00.709+0300] {processor.py:157} INFO - Started process (PID=58850) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:00.728+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:51:00.729+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:00.729+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:00.743+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:00.784+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:00.783+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:51:00.809+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:00.809+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:51:00.852+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.150 seconds
+[2023-06-07T18:51:31.341+0300] {processor.py:157} INFO - Started process (PID=58882) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:31.359+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:51:31.360+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:31.359+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:31.373+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:51:31.411+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:31.411+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:51:31.437+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:51:31.437+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:51:31.471+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.134 seconds
+[2023-06-07T18:52:01.949+0300] {processor.py:157} INFO - Started process (PID=58917) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:01.968+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:01.969+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:01.969+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:01.989+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:02.030+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:02.030+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:02.055+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:02.055+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:02.090+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.150 seconds
+[2023-06-07T18:52:32.540+0300] {processor.py:157} INFO - Started process (PID=59083) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:32.567+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:32.569+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:32.568+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:32.589+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:32.630+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:32.629+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:32.655+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:32.655+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:32.724+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.188 seconds
+[2023-06-07T18:52:54.113+0300] {processor.py:157} INFO - Started process (PID=59118) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:54.114+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:54.115+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:54.115+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:54.130+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:54.179+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:54.178+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:54.208+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:54.207+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:54.243+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.134 seconds
+[2023-06-07T18:52:55.177+0300] {processor.py:157} INFO - Started process (PID=59127) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:55.178+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:55.180+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:55.179+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:55.196+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:55.241+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:55.241+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:55.271+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:55.271+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:55.367+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.199 seconds
+[2023-06-07T18:52:56.301+0300] {processor.py:157} INFO - Started process (PID=59133) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:56.302+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:56.303+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:56.303+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:56.318+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:56.364+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:56.364+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:56.394+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:56.394+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:56.429+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.133 seconds
+[2023-06-07T18:52:57.435+0300] {processor.py:157} INFO - Started process (PID=59139) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:57.436+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:52:57.437+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:57.437+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:57.454+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:52:57.496+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:57.495+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:52:57.527+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:52:57.527+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:52:57.565+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.136 seconds
+[2023-06-07T18:53:28.029+0300] {processor.py:157} INFO - Started process (PID=59580) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:28.049+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:53:28.049+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:28.049+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:28.067+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:28.119+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:28.118+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:53:28.150+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:28.150+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:53:28.187+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.163 seconds
+[2023-06-07T18:53:58.712+0300] {processor.py:157} INFO - Started process (PID=59710) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:58.713+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:53:58.714+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:58.714+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:58.728+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:53:58.764+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:58.764+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:53:58.789+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:53:58.789+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:53:58.829+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.124 seconds
+[2023-06-07T18:54:29.417+0300] {processor.py:157} INFO - Started process (PID=60158) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:54:29.434+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:54:29.435+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:29.435+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:54:29.453+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:54:29.505+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:29.505+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:54:29.541+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:54:29.541+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:54:29.609+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.200 seconds
+[2023-06-07T18:55:00.116+0300] {processor.py:157} INFO - Started process (PID=60253) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:00.117+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:55:00.117+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:00.117+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:00.130+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:00.168+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:00.168+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:55:00.192+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:00.192+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:55:00.223+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.111 seconds
+[2023-06-07T18:55:30.673+0300] {processor.py:157} INFO - Started process (PID=60296) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:30.685+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:55:30.686+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:30.686+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:30.699+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:55:30.740+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:30.740+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:55:30.765+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:55:30.764+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:55:30.800+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.131 seconds
+[2023-06-07T18:56:01.259+0300] {processor.py:157} INFO - Started process (PID=60334) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:01.260+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:56:01.260+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:01.260+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:01.273+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:01.313+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:01.313+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:56:01.338+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:01.337+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:56:01.375+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.120 seconds
+[2023-06-07T18:56:31.823+0300] {processor.py:157} INFO - Started process (PID=60384) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:31.835+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:56:31.836+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:31.836+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:31.853+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:56:31.889+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:31.889+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:56:31.914+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:56:31.914+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:56:31.951+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.134 seconds
+[2023-06-07T18:57:02.334+0300] {processor.py:157} INFO - Started process (PID=60443) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:02.336+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:57:02.337+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:02.337+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:02.351+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:02.392+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:02.392+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:57:02.418+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:02.417+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:57:02.449+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T18:57:32.891+0300] {processor.py:157} INFO - Started process (PID=60609) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:32.909+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:57:32.910+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:32.910+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:32.925+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:57:32.961+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:32.961+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:57:32.985+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:57:32.985+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:57:33.016+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.138 seconds
+[2023-06-07T18:58:03.490+0300] {processor.py:157} INFO - Started process (PID=60648) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:03.491+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:58:03.491+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:03.491+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:03.505+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:03.542+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:03.542+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:58:03.565+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:03.565+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:58:03.589+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.106 seconds
+[2023-06-07T18:58:33.982+0300] {processor.py:157} INFO - Started process (PID=60685) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:33.983+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:58:33.984+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:33.984+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:33.998+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:58:34.034+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:34.034+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:58:34.057+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:58:34.056+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:58:34.090+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.112 seconds
+[2023-06-07T18:59:04.555+0300] {processor.py:157} INFO - Started process (PID=60724) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:04.571+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:59:04.572+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:04.572+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:04.601+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:04.641+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:04.641+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:59:04.665+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:04.665+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:59:04.708+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.157 seconds
+[2023-06-07T18:59:35.001+0300] {processor.py:157} INFO - Started process (PID=60762) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:35.013+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T18:59:35.014+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:35.014+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:35.027+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T18:59:35.066+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:35.066+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:59:35.098+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:59:35.097+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T15:00:00+00:00, run_after=2023-06-07T16:00:00+00:00
+[2023-06-07T18:59:35.142+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.145 seconds
+[2023-06-07T19:00:05.590+0300] {processor.py:157} INFO - Started process (PID=60947) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:05.591+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:00:05.592+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:05.592+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:05.605+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:05.643+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:05.643+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:00:05.667+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:05.667+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:00:05.707+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.120 seconds
+[2023-06-07T19:00:36.117+0300] {processor.py:157} INFO - Started process (PID=61111) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:36.131+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:00:36.132+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:36.132+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:36.145+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:00:36.182+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:36.181+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:00:36.205+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:00:36.205+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:00:36.238+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.127 seconds
+[2023-06-07T19:01:06.623+0300] {processor.py:157} INFO - Started process (PID=61154) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:06.625+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:01:06.626+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:06.626+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:06.644+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:06.682+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:06.682+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:01:06.705+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:06.705+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:01:06.736+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.123 seconds
+[2023-06-07T19:01:37.051+0300] {processor.py:157} INFO - Started process (PID=61191) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:37.072+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:01:37.073+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:37.073+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:37.087+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:01:37.124+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:37.124+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:01:37.150+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:01:37.150+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:01:37.189+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.144 seconds
+[2023-06-07T19:02:07.613+0300] {processor.py:157} INFO - Started process (PID=61229) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:07.614+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:02:07.615+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:07.615+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:07.631+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:07.666+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:07.666+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:02:07.690+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:07.690+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:02:07.722+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.114 seconds
+[2023-06-07T19:02:38.141+0300] {processor.py:157} INFO - Started process (PID=61468) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:38.157+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:02:38.158+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:38.158+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:38.172+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:02:38.209+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:38.209+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:02:38.233+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:02:38.233+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:02:38.265+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.130 seconds
+[2023-06-07T19:03:08.696+0300] {processor.py:157} INFO - Started process (PID=61515) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:08.697+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:03:08.698+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:08.698+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:08.711+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:08.747+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:08.747+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:03:08.772+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:08.772+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:03:08.809+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.118 seconds
+[2023-06-07T19:03:39.302+0300] {processor.py:157} INFO - Started process (PID=61554) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:39.318+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:03:39.320+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:39.320+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:39.345+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:03:39.381+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:39.381+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:03:39.405+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:03:39.405+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:03:39.439+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.145 seconds
+[2023-06-07T19:04:09.901+0300] {processor.py:157} INFO - Started process (PID=61593) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:09.902+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:04:09.903+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:09.903+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:09.917+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:09.954+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:09.954+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:04:09.978+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:09.977+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:04:10.016+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:04:40.426+0300] {processor.py:157} INFO - Started process (PID=61630) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:40.447+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:04:40.448+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:40.448+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:40.462+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:04:40.505+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:40.505+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:04:40.530+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:04:40.530+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:04:40.569+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.150 seconds
+[2023-06-07T19:05:11.014+0300] {processor.py:157} INFO - Started process (PID=61671) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:11.015+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:05:11.015+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:11.015+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:11.027+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:11.063+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:11.063+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:05:11.089+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:11.089+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:05:11.122+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.112 seconds
+[2023-06-07T19:05:41.544+0300] {processor.py:157} INFO - Started process (PID=61708) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:41.556+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:05:41.557+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:41.557+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:41.572+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:05:41.614+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:41.614+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:05:41.643+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:05:41.643+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:05:41.695+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.156 seconds
+[2023-06-07T19:06:12.129+0300] {processor.py:157} INFO - Started process (PID=61746) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:12.130+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:06:12.131+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:12.131+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:12.147+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:12.184+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:12.184+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:06:12.209+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:12.208+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:06:12.257+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.133 seconds
+[2023-06-07T19:06:42.739+0300] {processor.py:157} INFO - Started process (PID=61784) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:42.752+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:06:42.753+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:42.753+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:42.771+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:06:42.809+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:42.808+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:06:42.833+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:06:42.833+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:06:42.870+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.143 seconds
+[2023-06-07T19:07:13.334+0300] {processor.py:157} INFO - Started process (PID=61825) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:13.350+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:07:13.351+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:13.351+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:13.363+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:13.401+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:13.401+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:07:13.427+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:13.427+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:07:13.458+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.130 seconds
+[2023-06-07T19:07:43.865+0300] {processor.py:157} INFO - Started process (PID=61992) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:43.881+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:07:43.882+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:43.882+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:43.896+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:07:43.941+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:43.940+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:07:43.965+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:07:43.965+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:07:44.001+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.140 seconds
+[2023-06-07T19:08:14.424+0300] {processor.py:157} INFO - Started process (PID=62041) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:14.426+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:08:14.426+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:14.426+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:14.438+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:14.474+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:14.474+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:08:14.498+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:14.498+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:08:14.646+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.225 seconds
+[2023-06-07T19:08:45.139+0300] {processor.py:157} INFO - Started process (PID=62084) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:45.143+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:08:45.146+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:45.145+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:45.189+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:08:45.241+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:45.241+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:08:45.276+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:08:45.276+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:08:45.630+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.505 seconds
+[2023-06-07T19:09:15.695+0300] {processor.py:157} INFO - Started process (PID=62133) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:15.696+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:09:15.698+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:15.697+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:15.715+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:15.766+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:15.766+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:09:15.794+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:15.793+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:09:15.829+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.141 seconds
+[2023-06-07T19:09:46.393+0300] {processor.py:157} INFO - Started process (PID=62237) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:46.394+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:09:46.395+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:46.395+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:46.408+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:09:46.449+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:46.449+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:09:46.476+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:09:46.476+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:09:46.534+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.144 seconds
+[2023-06-07T19:10:17.050+0300] {processor.py:157} INFO - Started process (PID=62282) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:17.053+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:10:17.055+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:17.054+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:17.078+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:17.134+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:17.134+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:10:17.165+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:17.164+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:10:17.270+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.235 seconds
+[2023-06-07T19:10:47.819+0300] {processor.py:157} INFO - Started process (PID=62312) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:47.820+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:10:47.821+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:47.821+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:47.846+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:10:47.893+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:47.892+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:10:47.927+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:10:47.927+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:10:47.966+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.153 seconds
+[2023-06-07T19:11:18.524+0300] {processor.py:157} INFO - Started process (PID=62342) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:18.525+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:11:18.527+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:18.527+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:18.566+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:18.631+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:18.631+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:11:18.674+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:18.674+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:11:18.736+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.224 seconds
+[2023-06-07T19:11:49.352+0300] {processor.py:157} INFO - Started process (PID=62366) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:49.355+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:11:49.359+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:49.358+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:49.407+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:11:49.470+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:49.470+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:11:49.505+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:11:49.504+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:11:49.542+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.205 seconds
+[2023-06-07T19:12:20.155+0300] {processor.py:157} INFO - Started process (PID=62523) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:20.156+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:12:20.157+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:20.156+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:20.170+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:20.207+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:20.207+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:12:20.231+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:20.231+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:12:20.259+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.110 seconds
+[2023-06-07T19:12:50.682+0300] {processor.py:157} INFO - Started process (PID=62548) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:50.683+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:12:50.683+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:50.683+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:50.701+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:12:50.740+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:50.740+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:12:50.764+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:12:50.764+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:12:50.830+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.153 seconds
+[2023-06-07T19:13:21.292+0300] {processor.py:157} INFO - Started process (PID=62573) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:21.293+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:13:21.294+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:21.294+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:21.307+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:21.344+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:21.343+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:13:21.367+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:21.367+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:13:21.390+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.104 seconds
+[2023-06-07T19:13:51.763+0300] {processor.py:157} INFO - Started process (PID=62599) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:51.778+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:13:51.779+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:51.779+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:51.799+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:13:51.843+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:51.843+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:13:51.869+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:13:51.869+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:13:51.889+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.131 seconds
+[2023-06-07T19:14:22.325+0300] {processor.py:157} INFO - Started process (PID=62627) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:22.326+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:14:22.327+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:22.327+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:22.342+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:22.379+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:22.379+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:14:22.403+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:22.403+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:14:22.444+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.124 seconds
+[2023-06-07T19:14:52.871+0300] {processor.py:157} INFO - Started process (PID=62652) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:52.887+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:14:52.888+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:52.888+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:52.911+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:14:52.950+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:52.950+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:14:52.975+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:14:52.974+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:14:53.010+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.144 seconds
+[2023-06-07T19:15:23.441+0300] {processor.py:157} INFO - Started process (PID=62681) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:23.442+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:15:23.443+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:23.443+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:23.457+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:23.497+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:23.497+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:15:23.521+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:23.521+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:15:23.564+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.127 seconds
+[2023-06-07T19:15:54.038+0300] {processor.py:157} INFO - Started process (PID=62707) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:54.050+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:15:54.051+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:54.051+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:54.074+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:15:54.126+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:54.126+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:15:54.149+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:15:54.149+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:15:54.184+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.155 seconds
+[2023-06-07T19:16:24.589+0300] {processor.py:157} INFO - Started process (PID=62734) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:24.590+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:16:24.591+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:24.590+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:24.604+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:24.641+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:24.641+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:16:24.668+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:24.667+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:16:24.705+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:16:55.181+0300] {processor.py:157} INFO - Started process (PID=62760) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:55.251+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:16:55.254+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:55.253+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:55.297+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:16:55.333+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:55.332+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:16:55.357+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:16:55.357+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:16:55.392+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.214 seconds
+[2023-06-07T19:17:25.874+0300] {processor.py:157} INFO - Started process (PID=62916) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:25.875+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:17:25.875+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:25.875+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:25.887+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:25.925+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:25.925+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:17:25.950+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:25.949+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:17:25.979+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.110 seconds
+[2023-06-07T19:17:56.446+0300] {processor.py:157} INFO - Started process (PID=62941) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:56.460+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:17:56.461+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:56.461+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:56.476+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:17:56.514+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:56.514+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:17:56.540+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:17:56.540+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:17:56.579+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.137 seconds
+[2023-06-07T19:18:27.071+0300] {processor.py:157} INFO - Started process (PID=62969) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:27.073+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:18:27.074+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:27.073+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:27.088+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:27.124+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:27.124+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:18:27.147+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:27.147+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:18:27.188+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.123 seconds
+[2023-06-07T19:18:57.677+0300] {processor.py:157} INFO - Started process (PID=63161) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:57.696+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:18:57.697+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:57.697+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:57.720+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:18:57.759+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:57.759+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:18:57.784+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:18:57.784+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:18:57.844+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.179 seconds
+[2023-06-07T19:19:28.305+0300] {processor.py:157} INFO - Started process (PID=63193) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:28.306+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:19:28.306+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:28.306+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:28.319+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:28.356+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:28.355+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:19:28.379+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:28.379+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:19:28.419+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.118 seconds
+[2023-06-07T19:19:58.889+0300] {processor.py:157} INFO - Started process (PID=63219) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:58.903+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:19:58.904+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:58.904+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:58.925+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:19:58.966+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:58.966+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:19:58.990+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:19:58.990+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:19:59.043+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.161 seconds
+[2023-06-07T19:20:29.515+0300] {processor.py:157} INFO - Started process (PID=63244) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:20:29.516+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:20:29.517+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:29.517+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:20:29.532+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:20:29.570+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:29.570+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:20:29.593+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:20:29.593+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:20:29.615+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.104 seconds
+[2023-06-07T19:21:00.029+0300] {processor.py:157} INFO - Started process (PID=63277) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:00.031+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:21:00.032+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:00.032+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:00.048+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:00.083+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:00.083+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:21:00.107+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:00.107+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:21:00.145+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.122 seconds
+[2023-06-07T19:21:30.629+0300] {processor.py:157} INFO - Started process (PID=63323) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:30.642+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:21:30.643+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:30.643+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:30.663+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:21:30.699+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:30.699+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:21:30.722+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:21:30.722+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:21:30.755+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.138 seconds
+[2023-06-07T19:22:01.255+0300] {processor.py:157} INFO - Started process (PID=63348) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:01.256+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:22:01.257+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:01.257+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:01.270+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:01.306+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:01.306+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:22:01.330+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:01.330+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:22:01.365+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.115 seconds
+[2023-06-07T19:22:31.878+0300] {processor.py:157} INFO - Started process (PID=63503) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:31.904+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:22:31.905+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:31.905+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:31.923+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:22:31.965+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:31.965+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:22:31.989+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:22:31.989+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:22:32.018+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.145 seconds
+[2023-06-07T19:23:02.505+0300] {processor.py:157} INFO - Started process (PID=63744) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:02.506+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:23:02.508+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:02.507+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:02.523+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:02.568+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:02.567+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:23:02.600+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:02.600+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:23:02.640+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.140 seconds
+[2023-06-07T19:23:33.085+0300] {processor.py:157} INFO - Started process (PID=63835) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:33.099+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:23:33.100+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:33.100+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:33.118+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:23:33.168+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:33.168+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:23:33.200+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:23:33.200+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:23:33.270+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.191 seconds
+[2023-06-07T19:24:03.677+0300] {processor.py:157} INFO - Started process (PID=63870) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:03.678+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:24:03.679+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:03.678+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:03.692+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:03.731+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:03.731+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:24:03.756+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:03.756+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:24:03.805+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.132 seconds
+[2023-06-07T19:24:34.299+0300] {processor.py:157} INFO - Started process (PID=63905) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:34.329+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:24:34.330+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:34.330+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:34.355+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:24:34.392+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:34.392+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:24:34.418+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:24:34.417+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:24:34.447+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.161 seconds
+[2023-06-07T19:25:04.858+0300] {processor.py:157} INFO - Started process (PID=63935) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:04.861+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:25:04.862+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:04.862+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:04.880+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:04.936+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:04.936+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:25:04.966+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:04.966+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:25:05.013+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.161 seconds
+[2023-06-07T19:25:35.529+0300] {processor.py:157} INFO - Started process (PID=63961) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:35.547+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:25:35.548+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:35.547+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:35.560+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:25:35.596+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:35.595+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:25:35.620+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:25:35.620+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:25:35.653+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.130 seconds
+[2023-06-07T19:26:06.056+0300] {processor.py:157} INFO - Started process (PID=63986) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:06.057+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:26:06.058+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:06.058+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:06.073+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:06.115+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:06.115+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:26:06.143+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:06.143+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:26:06.177+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.125 seconds
+[2023-06-07T19:26:36.591+0300] {processor.py:157} INFO - Started process (PID=64012) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:36.603+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:26:36.604+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:36.604+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:36.619+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:26:36.663+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:36.663+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:26:36.687+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:26:36.687+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:26:36.716+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.133 seconds
+[2023-06-07T19:27:07.041+0300] {processor.py:157} INFO - Started process (PID=64052) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:07.042+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:27:07.043+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:07.043+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:07.055+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:07.091+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:07.091+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:27:07.116+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:07.116+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:27:07.150+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.112 seconds
+[2023-06-07T19:27:37.643+0300] {processor.py:157} INFO - Started process (PID=64203) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:37.655+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:27:37.656+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:37.656+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:37.670+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:27:37.707+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:37.707+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:27:37.732+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:27:37.732+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:27:37.769+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.129 seconds
+[2023-06-07T19:28:08.237+0300] {processor.py:157} INFO - Started process (PID=64229) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:08.238+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:28:08.239+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:08.239+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:08.251+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:08.288+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:08.288+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:28:08.312+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:08.312+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:28:08.345+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.112 seconds
+[2023-06-07T19:28:38.772+0300] {processor.py:157} INFO - Started process (PID=64256) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:38.785+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:28:38.786+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:38.785+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:38.799+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:28:38.836+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:38.836+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:28:38.861+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:28:38.861+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:28:38.911+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.145 seconds
+[2023-06-07T19:29:09.433+0300] {processor.py:157} INFO - Started process (PID=64290) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:09.435+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:29:09.437+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:09.436+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:09.454+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:09.491+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:09.491+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:29:09.515+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:09.515+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:29:09.553+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.132 seconds
+[2023-06-07T19:29:39.993+0300] {processor.py:157} INFO - Started process (PID=64315) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:39.995+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:29:39.996+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:39.996+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:40.011+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:29:40.047+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:40.047+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:29:40.071+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:29:40.071+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:29:40.096+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.115 seconds
+[2023-06-07T19:30:10.591+0300] {processor.py:157} INFO - Started process (PID=64343) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:10.592+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:30:10.593+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:10.593+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:10.607+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:10.644+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:10.644+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:30:10.670+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:10.669+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:30:10.705+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:30:41.125+0300] {processor.py:157} INFO - Started process (PID=64370) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:41.126+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:30:41.127+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:41.127+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:41.141+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:30:41.183+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:41.183+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:30:41.208+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:30:41.208+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:30:41.248+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.127 seconds
+[2023-06-07T19:31:11.717+0300] {processor.py:157} INFO - Started process (PID=64397) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:11.718+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:31:11.719+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:11.719+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:11.733+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:11.770+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:11.770+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:31:11.794+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:11.793+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:31:11.824+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.114 seconds
+[2023-06-07T19:31:42.257+0300] {processor.py:157} INFO - Started process (PID=64426) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:42.258+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:31:42.259+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:42.259+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:42.272+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:31:42.308+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:42.307+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:31:42.331+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:31:42.331+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:31:42.356+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.102 seconds
+[2023-06-07T19:32:12.897+0300] {processor.py:157} INFO - Started process (PID=64455) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:12.898+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:32:12.899+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:12.899+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:12.911+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:12.949+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:12.949+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:32:12.972+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:12.972+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:32:13.009+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T19:32:43.465+0300] {processor.py:157} INFO - Started process (PID=64606) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:43.466+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:32:43.467+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:43.467+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:43.480+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:32:43.522+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:43.522+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:32:43.546+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:32:43.545+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:32:43.574+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.114 seconds
+[2023-06-07T19:33:14.042+0300] {processor.py:157} INFO - Started process (PID=64631) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:14.043+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:33:14.043+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:14.043+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:14.056+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:14.091+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:14.091+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:33:14.115+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:14.115+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:33:14.151+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.113 seconds
+[2023-06-07T19:33:44.549+0300] {processor.py:157} INFO - Started process (PID=64658) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:44.551+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:33:44.553+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:44.552+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:44.569+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:33:44.604+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:44.604+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:33:44.629+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:33:44.628+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:33:44.661+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.122 seconds
+[2023-06-07T19:34:15.135+0300] {processor.py:157} INFO - Started process (PID=64684) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:15.136+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:34:15.137+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:15.137+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:15.150+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:15.185+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:15.185+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:34:15.211+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:15.211+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:34:15.247+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.118 seconds
+[2023-06-07T19:34:45.731+0300] {processor.py:157} INFO - Started process (PID=64712) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:45.732+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:34:45.733+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:45.733+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:45.745+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:34:45.780+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:45.780+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:34:45.803+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:34:45.803+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:34:45.834+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.108 seconds
+[2023-06-07T19:35:16.153+0300] {processor.py:157} INFO - Started process (PID=64745) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:16.154+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:35:16.154+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:16.154+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:16.166+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:16.203+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:16.203+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:35:16.227+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:16.227+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:35:16.268+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.119 seconds
+[2023-06-07T19:35:46.689+0300] {processor.py:157} INFO - Started process (PID=64770) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:46.708+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:35:46.710+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:46.710+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:46.742+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:35:46.779+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:46.779+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:35:46.804+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:35:46.804+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:35:46.844+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.160 seconds
+[2023-06-07T19:36:17.273+0300] {processor.py:157} INFO - Started process (PID=64796) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:17.274+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:36:17.275+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:17.275+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:17.288+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:17.325+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:17.325+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:36:17.350+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:17.350+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:36:17.385+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T19:36:47.837+0300] {processor.py:157} INFO - Started process (PID=64822) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:47.855+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:36:47.856+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:47.856+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:47.872+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:36:47.920+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:47.919+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:36:47.952+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:36:47.952+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:36:47.985+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.153 seconds
+[2023-06-07T19:37:18.456+0300] {processor.py:157} INFO - Started process (PID=65017) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:18.457+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:37:18.458+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:18.458+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:18.479+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:18.523+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:18.523+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:37:18.553+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:18.553+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:37:18.582+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.132 seconds
+[2023-06-07T19:37:49.057+0300] {processor.py:157} INFO - Started process (PID=65169) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:49.074+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:37:49.075+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:49.075+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:49.090+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:37:49.129+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:49.128+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:37:49.153+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:37:49.152+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:37:49.192+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.139 seconds
+[2023-06-07T19:38:19.609+0300] {processor.py:157} INFO - Started process (PID=65208) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:19.610+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:38:19.611+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:19.611+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:19.624+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:19.661+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:19.661+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:38:19.684+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:19.684+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:38:19.723+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.118 seconds
+[2023-06-07T19:38:50.125+0300] {processor.py:157} INFO - Started process (PID=65232) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:50.140+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:38:50.141+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:50.141+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:50.155+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:38:50.193+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:50.193+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:38:50.221+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:38:50.221+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:38:50.254+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.134 seconds
+[2023-06-07T19:39:20.751+0300] {processor.py:157} INFO - Started process (PID=65260) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:20.752+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:39:20.753+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:20.753+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:20.766+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:20.802+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:20.801+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:39:20.826+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:20.826+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:39:20.864+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:39:51.322+0300] {processor.py:157} INFO - Started process (PID=65286) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:51.337+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:39:51.339+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:51.339+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:51.364+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:39:51.400+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:51.400+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:39:51.424+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:39:51.423+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:39:51.452+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.140 seconds
+[2023-06-07T19:40:21.952+0300] {processor.py:157} INFO - Started process (PID=65347) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:21.953+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:40:21.955+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:21.954+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:21.968+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:22.004+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:22.003+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:40:22.027+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:22.026+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:40:22.060+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T19:40:52.511+0300] {processor.py:157} INFO - Started process (PID=65627) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:52.532+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:40:52.533+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:52.533+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:52.554+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:40:52.591+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:52.590+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:40:52.615+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:40:52.614+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:40:52.647+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.147 seconds
+[2023-06-07T19:41:23.090+0300] {processor.py:157} INFO - Started process (PID=65663) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:23.091+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:41:23.092+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:23.092+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:23.105+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:23.140+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:23.140+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:41:23.166+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:23.166+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:41:23.272+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.187 seconds
+[2023-06-07T19:41:53.530+0300] {processor.py:157} INFO - Started process (PID=65698) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:53.551+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:41:53.552+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:53.551+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:53.565+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:41:53.607+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:53.607+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:41:53.632+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:41:53.632+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:41:53.666+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.140 seconds
+[2023-06-07T19:42:24.199+0300] {processor.py:157} INFO - Started process (PID=65863) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:24.200+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:42:24.201+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:24.200+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:24.218+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:24.273+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:24.273+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:42:24.309+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:24.309+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:42:24.370+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.177 seconds
+[2023-06-07T19:42:54.690+0300] {processor.py:157} INFO - Started process (PID=65900) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:54.706+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:42:54.707+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:54.707+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:54.722+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:42:54.759+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:54.759+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:42:54.783+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:42:54.783+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:42:54.818+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.132 seconds
+[2023-06-07T19:43:25.323+0300] {processor.py:157} INFO - Started process (PID=65936) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:25.324+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:43:25.325+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:25.324+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:25.338+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:25.374+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:25.373+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:43:25.398+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:25.398+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:43:25.428+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.111 seconds
+[2023-06-07T19:43:56.008+0300] {processor.py:157} INFO - Started process (PID=65993) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:56.024+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:43:56.025+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:56.025+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:56.045+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:43:56.093+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:56.093+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:43:56.127+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:43:56.127+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:43:56.170+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.170 seconds
+[2023-06-07T19:44:26.627+0300] {processor.py:157} INFO - Started process (PID=66058) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:26.640+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:44:26.641+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:26.641+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:26.668+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:26.720+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:26.719+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:44:26.753+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:26.752+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:44:26.784+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.169 seconds
+[2023-06-07T19:44:57.136+0300] {processor.py:157} INFO - Started process (PID=66140) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:57.137+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:44:57.138+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:57.138+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:57.157+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:44:57.217+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:57.217+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:44:57.248+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:44:57.248+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:44:57.289+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.158 seconds
+[2023-06-07T19:45:27.549+0300] {processor.py:157} INFO - Started process (PID=66291) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:27.571+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:45:27.574+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:27.573+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:27.619+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:27.671+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:27.671+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:45:27.699+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:27.699+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:45:27.734+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.195 seconds
+[2023-06-07T19:45:58.195+0300] {processor.py:157} INFO - Started process (PID=66334) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:58.196+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:45:58.197+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:58.197+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:58.217+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:45:58.263+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:58.262+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:45:58.295+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:45:58.295+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:45:58.321+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.132 seconds
+[2023-06-07T19:46:28.750+0300] {processor.py:157} INFO - Started process (PID=66368) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:28.760+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:46:28.762+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:28.761+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:28.778+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:28.826+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:28.825+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:46:28.854+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:28.854+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:46:28.886+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.141 seconds
+[2023-06-07T19:46:59.342+0300] {processor.py:157} INFO - Started process (PID=66394) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:59.344+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:46:59.347+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:59.346+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:59.377+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:46:59.446+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:59.445+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:46:59.481+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:46:59.480+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:46:59.529+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.201 seconds
+[2023-06-07T19:47:29.964+0300] {processor.py:157} INFO - Started process (PID=66555) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:47:30.069+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:47:30.071+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:30.071+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:47:30.108+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:47:30.154+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:30.153+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:47:30.179+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:47:30.179+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:47:30.218+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.259 seconds
+[2023-06-07T19:48:00.595+0300] {processor.py:157} INFO - Started process (PID=66582) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:00.596+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:48:00.597+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:00.597+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:00.609+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:00.647+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:00.647+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:48:00.671+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:00.671+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:48:00.707+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T19:48:31.154+0300] {processor.py:157} INFO - Started process (PID=66610) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:31.166+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:48:31.167+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:31.167+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:31.180+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:48:31.219+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:31.218+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:48:31.243+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:48:31.242+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:48:31.457+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.308 seconds
+[2023-06-07T19:49:01.902+0300] {processor.py:157} INFO - Started process (PID=66636) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:01.908+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:49:01.909+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:01.909+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:01.925+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:01.968+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:01.968+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:49:01.992+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:01.992+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:49:02.054+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.156 seconds
+[2023-06-07T19:49:32.498+0300] {processor.py:157} INFO - Started process (PID=66663) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:32.499+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:49:32.500+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:32.500+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:32.514+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:49:32.549+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:32.549+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:49:32.573+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:49:32.573+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:49:32.601+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.113 seconds
+[2023-06-07T19:50:02.975+0300] {processor.py:157} INFO - Started process (PID=66689) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:02.991+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:50:02.993+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:02.993+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:03.015+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:03.052+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:03.052+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:50:03.078+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:03.078+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:50:03.122+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.157 seconds
+[2023-06-07T19:50:33.611+0300] {processor.py:157} INFO - Started process (PID=66717) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:33.613+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:50:33.615+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:33.615+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:33.631+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:50:33.669+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:33.669+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:50:33.693+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:50:33.692+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:50:33.721+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:51:04.214+0300] {processor.py:157} INFO - Started process (PID=66745) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:04.232+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:51:04.233+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:04.233+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:04.247+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:04.287+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:04.287+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:51:04.311+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:04.311+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:51:04.341+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.131 seconds
+[2023-06-07T19:51:34.762+0300] {processor.py:157} INFO - Started process (PID=66770) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:34.763+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:51:34.763+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:34.763+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:34.776+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:51:34.811+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:34.811+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:51:34.834+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:51:34.834+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:51:34.863+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.107 seconds
+[2023-06-07T19:52:05.323+0300] {processor.py:157} INFO - Started process (PID=66799) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:05.335+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:52:05.336+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:05.336+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:05.349+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:05.387+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:05.387+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:52:05.410+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:05.410+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:52:05.440+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.121 seconds
+[2023-06-07T19:52:35.923+0300] {processor.py:157} INFO - Started process (PID=66964) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:35.925+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:52:35.926+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:35.926+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:35.941+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:52:35.977+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:35.977+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:52:36.002+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:52:36.002+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:52:36.027+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.113 seconds
+[2023-06-07T19:53:06.454+0300] {processor.py:157} INFO - Started process (PID=66989) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:06.466+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:53:06.468+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:06.468+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:06.495+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:06.534+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:06.534+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:53:06.558+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:06.558+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:53:06.582+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.138 seconds
+[2023-06-07T19:53:37.015+0300] {processor.py:157} INFO - Started process (PID=67179) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:37.017+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:53:37.018+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:37.018+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:37.036+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:53:37.073+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:37.073+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:53:37.096+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:53:37.096+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:53:37.126+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.122 seconds
+[2023-06-07T19:54:07.613+0300] {processor.py:157} INFO - Started process (PID=67205) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:07.620+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:54:07.621+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:07.621+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:07.634+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:07.671+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:07.671+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:54:07.695+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:07.695+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:54:07.724+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.115 seconds
+[2023-06-07T19:54:38.111+0300] {processor.py:157} INFO - Started process (PID=67235) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:38.112+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:54:38.113+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:38.113+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:38.127+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:54:38.165+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:38.165+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:54:38.188+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:54:38.188+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:54:38.223+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T19:55:08.660+0300] {processor.py:157} INFO - Started process (PID=67266) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:08.673+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:55:08.674+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:08.674+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:08.687+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:08.724+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:08.724+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:55:08.749+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:08.748+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:55:08.779+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.122 seconds
+[2023-06-07T19:55:39.200+0300] {processor.py:157} INFO - Started process (PID=67291) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:39.201+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:55:39.202+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:39.201+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:39.215+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:55:39.255+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:39.254+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:55:39.291+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:55:39.291+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:55:39.321+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.125 seconds
+[2023-06-07T19:56:09.813+0300] {processor.py:157} INFO - Started process (PID=67318) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:09.826+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:56:09.827+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:09.827+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:09.845+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:09.883+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:09.882+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:56:09.906+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:09.906+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:56:09.930+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.124 seconds
+[2023-06-07T19:56:40.371+0300] {processor.py:157} INFO - Started process (PID=67345) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:40.373+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:56:40.374+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:40.374+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:40.389+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:56:40.424+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:40.424+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:56:40.448+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:56:40.448+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:56:40.529+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.165 seconds
+[2023-06-07T19:57:10.858+0300] {processor.py:157} INFO - Started process (PID=67378) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:10.864+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:57:10.865+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:10.865+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:10.880+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:10.917+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:10.917+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:57:10.941+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:10.941+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:57:10.973+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.119 seconds
+[2023-06-07T19:57:41.433+0300] {processor.py:157} INFO - Started process (PID=67542) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:41.434+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:57:41.435+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:41.435+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:41.449+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:57:41.485+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:41.485+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:57:41.510+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:57:41.510+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:57:41.537+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.111 seconds
+[2023-06-07T19:58:12.011+0300] {processor.py:157} INFO - Started process (PID=67784) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:12.028+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:58:12.029+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:12.029+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:12.043+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:12.087+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:12.086+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:58:12.116+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:12.116+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:58:12.147+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.140 seconds
+[2023-06-07T19:58:42.522+0300] {processor.py:157} INFO - Started process (PID=67814) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:42.523+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:58:42.524+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:42.524+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:42.539+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:58:42.583+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:42.583+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:58:42.613+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:58:42.613+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:58:42.646+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.130 seconds
+[2023-06-07T19:59:13.081+0300] {processor.py:157} INFO - Started process (PID=67839) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:13.088+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:59:13.089+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:13.089+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:13.104+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:13.145+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:13.145+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:59:13.172+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:13.172+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:59:13.201+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.124 seconds
+[2023-06-07T19:59:43.676+0300] {processor.py:157} INFO - Started process (PID=67869) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:43.677+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T19:59:43.678+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:43.678+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:43.693+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T19:59:43.729+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:43.729+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T19:59:43.754+0300] {logging_mixin.py:149} INFO - [2023-06-07T19:59:43.754+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T16:00:00+00:00, run_after=2023-06-07T17:00:00+00:00
+[2023-06-07T19:59:43.787+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.118 seconds
+[2023-06-07T20:00:14.234+0300] {processor.py:157} INFO - Started process (PID=68171) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:14.252+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:00:14.253+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:14.253+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:14.273+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:14.312+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:14.312+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:00:14.341+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:14.341+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:00:14.377+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.156 seconds
+[2023-06-07T20:00:44.899+0300] {processor.py:157} INFO - Started process (PID=68242) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:44.901+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:00:44.902+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:44.902+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:44.915+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:00:44.952+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:44.952+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:00:44.977+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:00:44.977+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:00:45.008+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.115 seconds
+[2023-06-07T20:01:15.497+0300] {processor.py:157} INFO - Started process (PID=68294) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:15.518+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:01:15.519+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:15.519+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:15.532+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:15.581+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:15.581+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:01:15.617+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:15.617+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:01:15.676+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.184 seconds
+[2023-06-07T20:01:46.150+0300] {processor.py:157} INFO - Started process (PID=68323) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:46.154+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:01:46.157+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:46.156+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:46.183+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:01:46.232+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:46.232+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:01:46.262+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:01:46.262+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:01:46.311+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.179 seconds
+[2023-06-07T20:02:16.689+0300] {processor.py:157} INFO - Started process (PID=68349) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:16.703+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:02:16.704+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:16.704+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:16.723+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:16.760+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:16.760+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:02:16.784+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:16.784+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:02:16.825+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.148 seconds
+[2023-06-07T20:02:47.275+0300] {processor.py:157} INFO - Started process (PID=68548) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:47.277+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:02:47.278+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:47.278+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:47.299+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:02:47.351+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:47.350+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:02:47.386+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:02:47.386+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:02:47.500+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.231 seconds
+[2023-06-07T20:03:18.052+0300] {processor.py:157} INFO - Started process (PID=68593) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:18.065+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:03:18.066+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:18.065+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:18.090+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:18.158+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:18.158+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:03:18.203+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:18.203+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:03:18.247+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.201 seconds
+[2023-06-07T20:03:48.682+0300] {processor.py:157} INFO - Started process (PID=68624) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:48.684+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:03:48.686+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:48.685+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:48.739+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:03:48.803+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:48.802+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:03:48.843+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:03:48.843+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:03:48.877+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.210 seconds
+[2023-06-07T20:04:19.362+0300] {processor.py:157} INFO - Started process (PID=68655) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:19.383+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:04:19.383+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:19.383+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:19.397+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:19.440+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:19.440+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:04:19.479+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:19.479+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:04:19.506+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.149 seconds
+[2023-06-07T20:04:50.050+0300] {processor.py:157} INFO - Started process (PID=68694) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:50.053+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:04:50.055+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:50.055+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:50.094+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:04:50.149+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:50.148+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:04:50.189+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:04:50.189+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:04:50.227+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.193 seconds
+[2023-06-07T20:05:20.792+0300] {processor.py:157} INFO - Started process (PID=68742) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:20.810+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:05:20.812+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:20.812+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:20.859+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:20.928+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:20.928+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:05:20.963+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:20.962+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:05:20.991+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.214 seconds
+[2023-06-07T20:05:51.362+0300] {processor.py:157} INFO - Started process (PID=68773) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:51.369+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:05:51.370+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:51.370+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:51.390+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:05:51.426+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:51.426+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:05:51.450+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:05:51.450+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:05:51.680+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.330 seconds
+[2023-06-07T20:06:22.120+0300] {processor.py:157} INFO - Started process (PID=68802) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:22.135+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:06:22.136+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:22.136+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:22.150+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:22.185+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:22.185+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:06:22.209+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:22.209+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:06:22.242+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.128 seconds
+[2023-06-07T20:06:52.665+0300] {processor.py:157} INFO - Started process (PID=68828) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:52.666+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:06:52.668+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:52.667+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:52.681+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:06:52.716+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:52.716+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:06:52.740+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:06:52.739+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:06:52.774+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.116 seconds
+[2023-06-07T20:07:23.195+0300] {processor.py:157} INFO - Started process (PID=68979) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:23.196+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:07:23.197+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:23.196+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:23.209+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:23.246+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:23.246+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:07:23.269+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:23.269+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:07:23.306+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.115 seconds
+[2023-06-07T20:07:53.729+0300] {processor.py:157} INFO - Started process (PID=69016) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:53.742+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:07:53.743+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:53.743+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:53.761+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:07:53.801+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:53.801+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:07:53.824+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:07:53.824+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:07:53.860+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.135 seconds
+[2023-06-07T20:08:24.292+0300] {processor.py:157} INFO - Started process (PID=69044) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:24.295+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:08:24.296+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:24.296+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:24.335+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:24.380+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:24.380+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:08:24.403+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:24.403+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:08:24.436+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.155 seconds
+[2023-06-07T20:08:54.837+0300] {processor.py:157} INFO - Started process (PID=69075) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:54.850+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:08:54.851+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:54.851+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:54.867+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:08:54.911+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:54.910+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:08:54.936+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:08:54.936+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:08:54.968+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.141 seconds
+[2023-06-07T20:09:25.356+0300] {processor.py:157} INFO - Started process (PID=69109) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:25.358+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:09:25.359+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:25.358+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:25.372+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:25.409+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:25.408+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:09:25.433+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:25.433+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:09:25.468+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.122 seconds
+[2023-06-07T20:09:31.468+0300] {processor.py:157} INFO - Started process (PID=69120) to work on /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:31.503+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/templating_using_python.py for tasks to queue
+[2023-06-07T20:09:31.504+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:31.504+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:31.572+0300] {processor.py:836} INFO - DAG(s) dict_keys(['stocksense']) retrieved from /home/mutwiri/airflow/dags/templating_using_python.py
+[2023-06-07T20:09:31.618+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:31.618+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T20:09:31.652+0300] {logging_mixin.py:149} INFO - [2023-06-07T20:09:31.652+0300] {dag.py:3486} INFO - Setting next_dagrun for stocksense to 2023-06-07T17:00:00+00:00, run_after=2023-06-07T18:00:00+00:00
+[2023-06-07T20:09:31.703+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/templating_using_python.py took 0.240 seconds
