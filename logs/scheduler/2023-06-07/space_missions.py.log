@@ -976,3 +976,63 @@
 [2023-06-07T18:43:56.442+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
 [2023-06-07T18:43:56.480+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:56.480+0300] {dag.py:2726} INFO - Sync 1 DAGs
 [2023-06-07T18:43:56.532+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.113 seconds
+[2023-06-07T18:44:26.980+0300] {processor.py:157} INFO - Started process (PID=51736) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:26.990+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:44:26.992+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:26.992+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:27.017+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:27.079+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:27.079+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:44:27.145+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.171 seconds
+[2023-06-07T18:44:57.728+0300] {processor.py:157} INFO - Started process (PID=53193) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:57.749+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:44:57.750+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:57.750+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:57.817+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:44:57.964+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:57.964+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:44:58.221+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.527 seconds
+[2023-06-07T18:45:28.290+0300] {processor.py:157} INFO - Started process (PID=54589) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:28.292+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:45:28.293+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:45:28.293+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:28.315+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:28.361+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:45:28.361+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:45:28.419+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.136 seconds
+[2023-06-07T18:45:58.927+0300] {processor.py:157} INFO - Started process (PID=54781) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:58.942+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:45:58.944+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:45:58.944+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:58.969+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:45:59.010+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:45:59.010+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:45:59.063+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.155 seconds
+[2023-06-07T18:46:29.567+0300] {processor.py:157} INFO - Started process (PID=54825) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:29.568+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:46:29.569+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:46:29.569+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:29.586+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:29.627+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:46:29.626+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:46:29.681+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.118 seconds
+[2023-06-07T18:46:59.786+0300] {processor.py:157} INFO - Started process (PID=54938) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:59.817+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:46:59.819+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:46:59.819+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:59.858+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:46:59.910+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:46:59.910+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:46:59.974+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.203 seconds
+[2023-06-07T18:47:30.538+0300] {processor.py:157} INFO - Started process (PID=55411) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:47:30.559+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:47:30.561+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:47:30.560+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:47:30.590+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:47:30.629+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:47:30.629+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:47:30.693+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.161 seconds
+[2023-06-07T18:48:01.178+0300] {processor.py:157} INFO - Started process (PID=55646) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:01.256+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:48:01.258+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:48:01.257+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:01.314+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:01.379+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:48:01.379+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:48:01.450+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.291 seconds
+[2023-06-07T18:48:31.843+0300] {processor.py:157} INFO - Started process (PID=55764) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:31.853+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:48:31.853+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:48:31.853+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:31.868+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:48:31.908+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:48:31.907+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:48:31.962+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.123 seconds
+[2023-06-07T18:49:02.427+0300] {processor.py:157} INFO - Started process (PID=55828) to work on /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:49:02.452+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/space_missions.py for tasks to queue
+[2023-06-07T18:49:02.456+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:02.455+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:49:02.543+0300] {processor.py:836} INFO - DAG(s) dict_keys(['space_missions']) retrieved from /home/mutwiri/airflow/dags/space_missions.py
+[2023-06-07T18:49:02.629+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:49:02.629+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:49:02.697+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/space_missions.py took 0.277 seconds

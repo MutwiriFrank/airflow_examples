@@ -23,7 +23,7 @@ def _get_data(logical_date):
         f"{year}/{year}-{month:0>2}/"
         f"pageviews-{year}{month:0>2}{day:0>2}-{hour:0>2}0000.gz"
     )
-    output_path = "../tmp/wikipageviews.gz"
+    output_path = "./wikipageviews.gz"
     # request.urlretrieve(url, output_path)
 get_data = PythonOperator(
     task_id="get_data",
