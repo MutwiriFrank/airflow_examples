@@ -359,3 +359,521 @@
 [2023-06-07T18:06:19.365+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:06:19.365+0300] {dag.py:2726} INFO - Sync 1 DAGs
 [2023-06-07T18:06:19.389+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:06:19.389+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
 [2023-06-07T18:06:19.415+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.132 seconds
+[2023-06-07T18:06:49.769+0300] {processor.py:157} INFO - Started process (PID=37599) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:06:49.772+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:06:49.774+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:06:49.773+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:06:49.817+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:06:49.893+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:06:49.893+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:06:49.932+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:06:49.931+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:06:49.977+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.220 seconds
+[2023-06-07T18:07:20.665+0300] {processor.py:157} INFO - Started process (PID=37883) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:20.705+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:07:20.707+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:20.706+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:20.732+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:20.783+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:20.783+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:07:20.821+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:20.821+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:07:21.040+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.379 seconds
+[2023-06-07T18:07:51.562+0300] {processor.py:157} INFO - Started process (PID=38060) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:51.563+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:07:51.564+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:51.563+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:51.575+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:07:51.624+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:51.624+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:07:51.664+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:07:51.664+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:07:51.959+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.401 seconds
+[2023-06-07T18:08:22.413+0300] {processor.py:157} INFO - Started process (PID=39937) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:22.429+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:08:22.430+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:22.430+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:22.448+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:22.511+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:22.511+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:08:22.555+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:22.554+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:08:22.610+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.203 seconds
+[2023-06-07T18:08:52.912+0300] {processor.py:157} INFO - Started process (PID=40980) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:52.914+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:08:52.915+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:52.914+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:52.933+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:08:52.983+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:52.983+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:08:53.011+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:08:53.010+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:08:53.039+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.132 seconds
+[2023-06-07T18:09:23.518+0300] {processor.py:157} INFO - Started process (PID=41248) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:23.526+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:09:23.528+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:23.527+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:23.540+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:23.591+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:23.590+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:09:23.621+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:23.621+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:09:23.664+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.151 seconds
+[2023-06-07T18:09:54.212+0300] {processor.py:157} INFO - Started process (PID=41400) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:54.212+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:09:54.213+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:54.213+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:54.225+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:09:54.276+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:54.276+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:09:54.309+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:09:54.309+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:09:54.367+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.160 seconds
+[2023-06-07T18:10:24.764+0300] {processor.py:157} INFO - Started process (PID=41474) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:24.778+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:10:24.784+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:24.783+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:24.846+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:24.936+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:24.936+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:10:24.996+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:24.996+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:10:25.057+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.299 seconds
+[2023-06-07T18:10:55.522+0300] {processor.py:157} INFO - Started process (PID=41552) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:55.524+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:10:55.525+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:55.525+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:55.547+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:10:55.614+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:55.614+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:10:55.661+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:10:55.660+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:10:55.717+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.200 seconds
+[2023-06-07T18:11:26.186+0300] {processor.py:157} INFO - Started process (PID=41631) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:26.192+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:11:26.195+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:26.194+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:26.214+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:26.264+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:26.264+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:11:26.296+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:26.296+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:11:26.344+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.166 seconds
+[2023-06-07T18:11:57.141+0300] {processor.py:157} INFO - Started process (PID=41776) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:57.142+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:11:57.143+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:57.143+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:57.157+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:11:57.204+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:57.204+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:11:57.231+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:11:57.231+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:11:57.265+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.134 seconds
+[2023-06-07T18:12:27.735+0300] {processor.py:157} INFO - Started process (PID=42625) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:27.750+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:12:27.754+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:27.754+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:27.778+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:27.820+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:27.819+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:12:27.846+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:27.846+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:12:27.887+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.158 seconds
+[2023-06-07T18:12:58.319+0300] {processor.py:157} INFO - Started process (PID=42867) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:58.321+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:12:58.322+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:58.321+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:58.336+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:12:58.391+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:58.391+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:12:58.421+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:12:58.421+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:12:58.453+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.142 seconds
+[2023-06-07T18:13:28.930+0300] {processor.py:157} INFO - Started process (PID=43135) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:28.947+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:13:28.948+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:28.948+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:28.969+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:29.012+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:29.012+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:13:29.040+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:29.040+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:13:29.080+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.160 seconds
+[2023-06-07T18:13:59.567+0300] {processor.py:157} INFO - Started process (PID=43796) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:59.569+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:13:59.570+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:59.570+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:59.584+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:13:59.629+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:59.629+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:13:59.657+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:13:59.657+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:13:59.691+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.128 seconds
+[2023-06-07T18:14:29.908+0300] {processor.py:157} INFO - Started process (PID=44515) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:14:29.922+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:14:29.925+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:14:29.924+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:14:29.944+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:14:29.983+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:14:29.983+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:14:30.014+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:14:30.013+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:14:30.055+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.153 seconds
+[2023-06-07T18:15:00.594+0300] {processor.py:157} INFO - Started process (PID=44613) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:00.609+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:15:00.613+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:00.612+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:00.668+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:00.732+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:00.732+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:15:00.762+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:00.762+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:15:00.788+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.208 seconds
+[2023-06-07T18:15:31.326+0300] {processor.py:157} INFO - Started process (PID=44750) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:31.332+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:15:31.335+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:31.334+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:31.375+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:15:31.432+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:31.431+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:15:31.465+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:15:31.464+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:15:31.611+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.302 seconds
+[2023-06-07T18:16:01.930+0300] {processor.py:157} INFO - Started process (PID=44783) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:01.938+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:16:01.939+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:01.939+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:01.953+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:02.014+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:02.013+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:16:02.054+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:02.054+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:16:02.093+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.170 seconds
+[2023-06-07T18:16:32.583+0300] {processor.py:157} INFO - Started process (PID=44821) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:32.584+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:16:32.585+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:32.584+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:32.596+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:16:32.634+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:32.634+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:16:32.658+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:16:32.658+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:16:32.691+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.113 seconds
+[2023-06-07T18:17:03.133+0300] {processor.py:157} INFO - Started process (PID=44854) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:03.146+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:17:03.147+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:03.146+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:03.159+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:03.202+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:03.202+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:17:03.226+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:03.226+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:17:03.257+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.128 seconds
+[2023-06-07T18:17:33.726+0300] {processor.py:157} INFO - Started process (PID=45007) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:33.729+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:17:33.731+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:33.730+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:33.757+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:17:33.797+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:33.797+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:17:33.825+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:17:33.825+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:17:33.856+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.142 seconds
+[2023-06-07T18:18:04.326+0300] {processor.py:157} INFO - Started process (PID=45034) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:04.331+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:18:04.331+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:04.331+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:04.341+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:04.381+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:04.381+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:18:04.404+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:04.404+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:18:04.432+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.110 seconds
+[2023-06-07T18:18:34.845+0300] {processor.py:157} INFO - Started process (PID=45059) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:34.863+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:18:34.864+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:34.864+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:34.878+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:18:34.919+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:34.919+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:18:34.943+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:18:34.943+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:18:34.965+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.124 seconds
+[2023-06-07T18:19:05.445+0300] {processor.py:157} INFO - Started process (PID=45088) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:05.446+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:19:05.447+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:05.447+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:05.461+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:05.499+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:05.499+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:19:05.524+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:05.524+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:19:05.553+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.113 seconds
+[2023-06-07T18:19:36.020+0300] {processor.py:157} INFO - Started process (PID=45115) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:36.024+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:19:36.024+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:36.024+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:36.036+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:19:36.079+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:36.079+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:19:36.105+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:19:36.105+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:19:36.127+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.112 seconds
+[2023-06-07T18:20:06.695+0300] {processor.py:157} INFO - Started process (PID=45236) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:06.696+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:20:06.697+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:06.697+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:06.709+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:06.752+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:06.752+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:20:06.786+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:06.786+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:20:06.838+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.147 seconds
+[2023-06-07T18:20:37.156+0300] {processor.py:157} INFO - Started process (PID=45321) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:37.165+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:20:37.166+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:37.166+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:37.180+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:20:37.218+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:37.218+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:20:37.242+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:20:37.242+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:20:37.271+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.121 seconds
+[2023-06-07T18:21:07.785+0300] {processor.py:157} INFO - Started process (PID=45366) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:07.787+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:21:07.789+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:07.789+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:07.808+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:07.852+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:07.852+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:21:07.878+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:07.878+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:21:07.900+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.128 seconds
+[2023-06-07T18:21:38.392+0300] {processor.py:157} INFO - Started process (PID=45413) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:38.406+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:21:38.407+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:38.407+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:38.420+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:21:38.458+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:38.458+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:21:38.485+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:21:38.484+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:21:38.511+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.128 seconds
+[2023-06-07T18:22:09.222+0300] {processor.py:157} INFO - Started process (PID=45514) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:09.236+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:22:09.237+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:09.237+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:09.248+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:09.285+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:09.285+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:22:09.309+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:09.309+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:22:09.330+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.113 seconds
+[2023-06-07T18:22:39.814+0300] {processor.py:157} INFO - Started process (PID=45671) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:39.815+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:22:39.815+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:39.815+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:39.826+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:22:39.864+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:39.864+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:22:39.887+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:22:39.886+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:22:39.917+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.108 seconds
+[2023-06-07T18:23:10.374+0300] {processor.py:157} INFO - Started process (PID=45702) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:10.388+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:23:10.389+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:10.389+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:10.401+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:10.439+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:10.439+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:23:10.466+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:10.465+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:23:10.495+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.127 seconds
+[2023-06-07T18:23:40.826+0300] {processor.py:157} INFO - Started process (PID=45727) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:40.842+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:23:40.843+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:40.843+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:40.855+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:23:40.893+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:40.893+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:23:40.917+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:23:40.916+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:23:40.938+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.121 seconds
+[2023-06-07T18:24:11.391+0300] {processor.py:157} INFO - Started process (PID=45754) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:11.397+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:24:11.398+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:11.397+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:11.409+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:11.449+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:11.448+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:24:11.475+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:11.474+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:24:11.503+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.118 seconds
+[2023-06-07T18:24:41.987+0300] {processor.py:157} INFO - Started process (PID=45794) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:42.006+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:24:42.007+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:42.006+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:42.018+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:24:42.057+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:42.057+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:24:42.083+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:24:42.083+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:24:42.112+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.133 seconds
+[2023-06-07T18:25:12.509+0300] {processor.py:157} INFO - Started process (PID=45833) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:12.515+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:25:12.517+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:12.516+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:12.531+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:12.572+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:12.572+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:25:12.596+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:12.596+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:25:12.636+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.135 seconds
+[2023-06-07T18:25:42.986+0300] {processor.py:157} INFO - Started process (PID=45907) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:42.992+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:25:42.994+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:42.993+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:43.014+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:25:43.060+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:43.060+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:25:43.088+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:25:43.087+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:25:43.122+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.149 seconds
+[2023-06-07T18:26:13.477+0300] {processor.py:157} INFO - Started process (PID=46004) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:13.490+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:26:13.491+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:13.491+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:13.502+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:13.542+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:13.542+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:26:13.565+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:13.565+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:26:13.597+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.127 seconds
+[2023-06-07T18:26:43.922+0300] {processor.py:157} INFO - Started process (PID=46040) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:43.924+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:26:43.926+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:43.926+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:43.941+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:26:44.002+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:44.002+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:26:44.038+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:26:44.038+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:26:44.081+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.164 seconds
+[2023-06-07T18:27:14.525+0300] {processor.py:157} INFO - Started process (PID=46091) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:14.545+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:27:14.551+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:14.550+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:14.602+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:14.708+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:14.708+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:27:14.738+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:14.738+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:27:14.760+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.246 seconds
+[2023-06-07T18:27:45.142+0300] {processor.py:157} INFO - Started process (PID=46269) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:45.145+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:27:45.148+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:45.147+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:45.181+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:27:45.248+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:45.248+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:27:45.278+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:27:45.278+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:27:45.519+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.389 seconds
+[2023-06-07T18:28:15.735+0300] {processor.py:157} INFO - Started process (PID=46307) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:15.741+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:28:15.742+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:15.742+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:15.756+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:15.798+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:15.798+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:28:15.821+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:15.821+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:28:15.847+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.123 seconds
+[2023-06-07T18:28:46.727+0300] {processor.py:157} INFO - Started process (PID=46376) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:46.748+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:28:46.753+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:46.753+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:46.771+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:28:46.845+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:46.845+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:28:46.933+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:28:46.933+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:28:46.993+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.272 seconds
+[2023-06-07T18:29:17.525+0300] {processor.py:157} INFO - Started process (PID=46736) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:17.534+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:29:17.535+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:17.535+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:17.550+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:17.596+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:17.596+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:29:17.624+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:17.624+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:29:17.656+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.138 seconds
+[2023-06-07T18:29:48.204+0300] {processor.py:157} INFO - Started process (PID=47335) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:48.222+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:29:48.225+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:48.225+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:48.263+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:29:48.320+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:48.320+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:29:48.350+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:29:48.350+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:29:48.389+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.202 seconds
+[2023-06-07T18:30:19.008+0300] {processor.py:157} INFO - Started process (PID=47448) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:19.018+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:30:19.019+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:19.019+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:19.035+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:19.094+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:19.094+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:30:19.127+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:19.127+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:30:19.166+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.164 seconds
+[2023-06-07T18:30:49.644+0300] {processor.py:157} INFO - Started process (PID=47695) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:49.645+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:30:49.646+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:49.646+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:49.666+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:30:49.740+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:49.739+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:30:49.799+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:30:49.799+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:30:49.892+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.254 seconds
+[2023-06-07T18:31:20.434+0300] {processor.py:157} INFO - Started process (PID=48158) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:20.436+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:31:20.437+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:20.437+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:20.467+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:20.539+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:20.538+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:31:20.588+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:20.588+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:31:20.673+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.248 seconds
+[2023-06-07T18:31:51.181+0300] {processor.py:157} INFO - Started process (PID=48305) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:51.196+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:31:51.198+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:51.197+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:51.214+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:31:51.262+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:51.262+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:31:51.293+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:31:51.292+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:31:51.328+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.151 seconds
+[2023-06-07T18:32:21.822+0300] {processor.py:157} INFO - Started process (PID=48487) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:21.824+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:32:21.826+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:21.826+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:21.846+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:21.887+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:21.887+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:32:21.920+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:21.920+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:32:21.944+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.136 seconds
+[2023-06-07T18:32:52.304+0300] {processor.py:157} INFO - Started process (PID=48511) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:52.306+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:32:52.308+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:52.308+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:52.329+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:32:52.370+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:52.370+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:32:52.405+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:32:52.405+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:32:52.431+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.141 seconds
+[2023-06-07T18:33:23.037+0300] {processor.py:157} INFO - Started process (PID=48596) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:23.051+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:33:23.053+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:23.053+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:23.083+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:23.136+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:23.136+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:33:23.163+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:23.163+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:33:23.186+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.165 seconds
+[2023-06-07T18:33:53.593+0300] {processor.py:157} INFO - Started process (PID=48797) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:53.597+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:33:53.600+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:53.599+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:53.631+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:33:53.683+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:53.683+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:33:53.709+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:33:53.709+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:33:53.741+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.168 seconds
+[2023-06-07T18:34:24.357+0300] {processor.py:157} INFO - Started process (PID=48879) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:24.368+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:34:24.373+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:24.372+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:24.399+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:24.457+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:24.456+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:34:24.493+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:24.492+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:34:24.530+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.188 seconds
+[2023-06-07T18:34:55.289+0300] {processor.py:157} INFO - Started process (PID=48959) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:55.291+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:34:55.294+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:55.293+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:55.328+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:34:55.405+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:55.405+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:34:55.428+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:34:55.428+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:34:55.543+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.268 seconds
+[2023-06-07T18:35:25.699+0300] {processor.py:157} INFO - Started process (PID=49003) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:25.702+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:35:25.705+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:25.704+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:25.741+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:25.799+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:25.799+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:35:25.827+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:25.827+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:35:25.875+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.190 seconds
+[2023-06-07T18:35:56.407+0300] {processor.py:157} INFO - Started process (PID=49057) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:56.416+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:35:56.418+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:56.418+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:56.438+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:35:56.487+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:56.487+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:35:56.517+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:35:56.517+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:35:56.543+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.145 seconds
+[2023-06-07T18:36:26.981+0300] {processor.py:157} INFO - Started process (PID=49132) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:26.988+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:36:26.989+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:26.989+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:27.013+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:27.105+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:27.104+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:36:27.165+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:27.165+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:36:27.202+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.226 seconds
+[2023-06-07T18:36:57.794+0300] {processor.py:157} INFO - Started process (PID=49199) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:57.801+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:36:57.801+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:57.801+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:57.813+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:36:57.870+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:57.870+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:36:57.901+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:36:57.901+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:36:57.926+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.136 seconds
+[2023-06-07T18:37:28.439+0300] {processor.py:157} INFO - Started process (PID=49362) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:28.440+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:37:28.441+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:28.441+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:28.452+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:28.489+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:28.489+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:37:28.512+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:28.512+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:37:28.535+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.101 seconds
+[2023-06-07T18:37:58.891+0300] {processor.py:157} INFO - Started process (PID=49391) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:58.908+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:37:58.911+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:58.910+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:58.949+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:37:59.003+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:59.003+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:37:59.032+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:37:59.032+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:37:59.054+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.179 seconds
+[2023-06-07T18:38:29.129+0300] {processor.py:157} INFO - Started process (PID=49474) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:29.140+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:38:29.142+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:29.142+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:29.171+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:29.212+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:29.212+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:38:29.238+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:29.238+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:38:29.266+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.151 seconds
+[2023-06-07T18:38:59.772+0300] {processor.py:157} INFO - Started process (PID=49549) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:59.775+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:38:59.777+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:59.776+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:59.812+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:38:59.894+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:59.894+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:38:59.917+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:38:59.917+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:38:59.940+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.179 seconds
+[2023-06-07T18:39:30.380+0300] {processor.py:157} INFO - Started process (PID=49668) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:39:30.433+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:39:30.434+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:39:30.434+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:39:30.455+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:39:30.512+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:39:30.512+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:39:30.537+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:39:30.537+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:39:30.571+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.194 seconds
+[2023-06-07T18:40:01.230+0300] {processor.py:157} INFO - Started process (PID=49754) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:01.253+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:40:01.257+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:01.256+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:01.303+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:01.373+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:01.372+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:40:01.406+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:01.406+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:40:01.438+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.233 seconds
+[2023-06-07T18:40:31.747+0300] {processor.py:157} INFO - Started process (PID=49836) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:31.748+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:40:31.748+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:31.748+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:31.762+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:40:31.813+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:31.813+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:40:31.844+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:40:31.844+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:40:31.892+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.149 seconds
+[2023-06-07T18:41:02.859+0300] {processor.py:157} INFO - Started process (PID=49982) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:02.866+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:41:02.868+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:02.867+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:02.889+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:02.930+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:02.930+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:41:02.958+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:02.957+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:41:02.984+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.139 seconds
+[2023-06-07T18:41:33.536+0300] {processor.py:157} INFO - Started process (PID=50208) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:33.552+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:41:33.553+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:33.553+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:33.563+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:41:33.602+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:33.602+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:41:33.625+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:41:33.625+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:41:33.649+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.117 seconds
+[2023-06-07T18:42:03.993+0300] {processor.py:157} INFO - Started process (PID=50564) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:04.005+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:42:04.006+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:04.006+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:04.019+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:04.066+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:04.066+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:42:04.097+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:04.097+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:42:04.130+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.144 seconds
+[2023-06-07T18:42:34.500+0300] {processor.py:157} INFO - Started process (PID=50937) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:34.514+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:42:34.516+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:34.515+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:34.531+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:42:34.574+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:34.573+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:42:34.602+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:42:34.602+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:42:34.625+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.132 seconds
+[2023-06-07T18:43:05.079+0300] {processor.py:157} INFO - Started process (PID=51320) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:05.090+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:43:05.092+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:05.092+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:05.110+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:05.149+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:05.149+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:43:05.181+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:05.181+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:43:05.216+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.143 seconds
+[2023-06-07T18:43:35.853+0300] {processor.py:157} INFO - Started process (PID=51416) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:35.864+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:43:35.865+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:35.865+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:35.875+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:43:35.916+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:35.916+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:43:35.942+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:43:35.941+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:43:35.963+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.119 seconds
+[2023-06-07T18:44:06.551+0300] {processor.py:157} INFO - Started process (PID=51596) to work on /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:44:06.617+0300] {processor.py:826} INFO - Processing file /home/mutwiri/airflow/dags/logical_date.py for tasks to queue
+[2023-06-07T18:44:06.620+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:06.619+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:44:06.655+0300] {processor.py:836} INFO - DAG(s) dict_keys(['sample_dag']) retrieved from /home/mutwiri/airflow/dags/logical_date.py
+[2023-06-07T18:44:06.755+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:06.755+0300] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-07T18:44:06.785+0300] {logging_mixin.py:149} INFO - [2023-06-07T18:44:06.785+0300] {dag.py:3486} INFO - Setting next_dagrun for sample_dag to 2023-06-07T00:00:00+00:00, run_after=2023-06-08T00:00:00+00:00
+[2023-06-07T18:44:06.805+0300] {processor.py:179} INFO - Processing /home/mutwiri/airflow/dags/logical_date.py took 0.266 seconds
